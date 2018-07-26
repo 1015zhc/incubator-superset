@@ -101,13 +101,13 @@ class SqlEditor extends React.PureComponent {
       {
         name: 'runQuery',
         key: 'ctrl+r',
-        descr: 'Run query',
+        descr: '运行查询',
         func: this.runQuery,
       },
       {
         name: 'newTab',
         key: 'ctrl+t',
-        descr: 'New tab',
+        descr: '新建编辑器',
         func: () => {
           this.props.actions.addQueryEditor({
             ...this.props.queryEditor,
@@ -119,7 +119,7 @@ class SqlEditor extends React.PureComponent {
       {
         name: 'stopQuery',
         key: 'ctrl+x',
-        descr: 'Stop query',
+        descr: '终止查询',
         func: this.stopQuery,
       },
     ];
@@ -236,7 +236,7 @@ class SqlEditor extends React.PureComponent {
             {ctasControls}
             <span className="m-l-5">
               <Hotkeys
-                header="Hotkeys"
+                header="快捷键"
                 hotkeys={hotkeys}
               />
             </span>

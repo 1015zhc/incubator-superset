@@ -1135,7 +1135,7 @@ msgstr "点击查看差异"
 
 #: superset/assets/src/components/AlteredSliceTag.jsx:125
 msgid "Altered"
-msgstr "改变"
+msgstr "有修改"
 
 #: superset/assets/src/components/AlteredSliceTag.jsx:143
 msgid "Chart changes"
@@ -2414,19 +2414,19 @@ msgstr "单击表格单元格时是否应用过滤器"
 
 #: superset/assets/src/explore/controls.jsx:1417
 msgid "Align +/-"
-msgstr "对齐 +/-"
+msgstr "对齐+/-值"
 
 #: superset/assets/src/explore/controls.jsx:1420
 msgid "Whether to align the background chart for +/- values"
-msgstr "是否将背景图表对齐 +/- 值"
+msgstr "是否将+/-值与背景对齐"
 
 #: superset/assets/src/explore/controls.jsx:1425
 msgid "Color +/-"
-msgstr "颜色 +/-"
+msgstr "绘制+/-值"
 
 #: superset/assets/src/explore/controls.jsx:1428
 msgid "Whether to color +/- values"
-msgstr "是否颜色 +/- 值"
+msgstr "是否颜色区分+/-值"
 
 #: superset/assets/src/explore/controls.jsx:1433
 msgid "Show Bubbles"
@@ -3024,7 +3024,7 @@ msgstr "带有切片名称前缀指标名称"
 
 #: superset/assets/src/explore/controls.jsx:2093
 msgid "Reverse Lat & Long"
-msgstr "反向经度和维度"
+msgstr "反向经维度"
 
 #: superset/assets/src/explore/controls.jsx:2100
 msgid "deck.gl charts"
@@ -3691,11 +3691,11 @@ msgstr "错误 ..."
 
 #: superset/assets/src/explore/components/DisplayQueryButton.jsx:146
 msgid "View query"
-msgstr ""
+msgstr "预览查询"
 
 #: superset/assets/src/explore/components/DisplayQueryButton.jsx:156
 msgid "View results"
-msgstr ""
+msgstr "预览结果"
 
 #: superset/assets/src/explore/components/EmbedCodeButton.jsx:91
 msgid "Width"
@@ -3804,7 +3804,7 @@ msgstr "搜索 / 过滤"
 
 #: superset/assets/src/explore/components/controls/DatasourceControl.jsx:195
 msgid "Click to point to another datasource"
-msgstr "点击指向另一个数据源"
+msgstr "点击更改数据源"
 
 #: superset/assets/src/explore/components/controls/DatasourceControl.jsx:206
 msgid "Edit the datasource's configuration"
@@ -3816,13 +3816,13 @@ msgstr "显示数据源配置"
 
 #: superset/assets/src/explore/components/controls/DatasourceControl.jsx:232
 msgid "Run SQL queries against this datasource"
-msgstr ""
+msgstr "对此数据源运行SQL查询"
 
 #: superset/assets/src/explore/components/controls/DateFilterControl.jsx:50
 msgid ""
 "Superset supports smart date parsing. Strings like `last sunday` or `last"
 " october` can be used."
-msgstr ""
+msgstr "Superset支持智能日期解析。可以使用像`last sunday`或`last october`这样的字符串。"
 
 #: superset/assets/src/explore/components/controls/MetricsControl.jsx:248
 msgid "choose a column or aggregate function"
@@ -3873,7 +3873,7 @@ msgstr "文本区域"
 
 #: superset/assets/src/explore/components/controls/TextAreaControl.jsx:98
 msgid "in modal"
-msgstr "在模态中"
+msgstr "(弹出层)"
 
 #: superset/assets/src/explore/components/controls/VizTypeControl.jsx:110
 msgid "Select a visualization type"

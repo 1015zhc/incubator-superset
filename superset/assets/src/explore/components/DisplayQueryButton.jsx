@@ -110,14 +110,14 @@ export default class DisplayQueryButton extends React.PureComponent {
     if (this.state.isLoading) {
       return (<img
         className="loading"
-        alt="Loading..."
+        alt="加载中..."
         src="/static/assets/images/loading.gif"
       />);
     } else if (this.state.error) {
       return <pre>{this.state.error}</pre>;
     } else if (this.state.data) {
       if (this.state.data.length === 0) {
-        return 'No data';
+        return '无数据';
       }
       const headers = Object.keys(this.state.data[0]).map((k, i) => (
         <TableHeaderColumn key={k} dataField={k} isKey={i === 0} dataSort>{k}</TableHeaderColumn>
@@ -142,7 +142,7 @@ export default class DisplayQueryButton extends React.PureComponent {
         <ModalTrigger
           isMenuItem
           animation={this.props.animation}
-          triggerNode={<span>View query</span>}
+          triggerNode={<span>预览查询</span>}
           modalTitle={t('View query')}
           bsSize="large"
           beforeOpen={this.beforeOpen}
@@ -152,7 +152,7 @@ export default class DisplayQueryButton extends React.PureComponent {
         <ModalTrigger
           isMenuItem
           animation={this.props.animation}
-          triggerNode={<span>View results</span>}
+          triggerNode={<span>预览结果</span>}
           modalTitle={t('View results')}
           bsSize="large"
           beforeOpen={this.beforeOpen}
@@ -163,7 +163,7 @@ export default class DisplayQueryButton extends React.PureComponent {
           eventKey="3"
           onClick={this.redirectSQLLab.bind(this)}
         >
-          Run in SQL Lab
+          在SQL工具箱中运行
         </MenuItem>}
       </DropdownButton>
     );

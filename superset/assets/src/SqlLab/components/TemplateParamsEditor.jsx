@@ -105,7 +105,7 @@ export default class TemplateParamsEditor extends React.Component {
             className="m-r-5"
             tooltip={t('Edit template parameters')}
           >
-            {`${t('parameters')} `}
+            {'参数'}
             {paramCount > 0 &&
               <Badge>{paramCount}</Badge>
             }

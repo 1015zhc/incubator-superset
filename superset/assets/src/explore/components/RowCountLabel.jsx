@@ -32,7 +32,7 @@ export default function RowCountLabel({ rowcount, limit }) {
         bsStyle={bsStyle}
         style={{ fontSize: '10px', marginRight: '5px', cursor: 'pointer' }}
       >
-        {formattedRowCount} rows
+        {formattedRowCount} 行
       </Label>
     </TooltipWrapper>
   );

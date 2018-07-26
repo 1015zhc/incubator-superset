@@ -130,11 +130,11 @@ class ControlPanelsContainer extends React.Component {
             </Alert>
           }
           <Tabs id="controlSections">
-            <Tab eventKey="query" title="Data">
+            <Tab eventKey="query" title="数据">
               {querySectionsToRender.map(this.renderControlPanelSection)}
             </Tab>
             {displaySectionsToRender.length > 0 &&
-              <Tab eventKey="display" title="Style">
+              <Tab eventKey="display" title="样式">
                 {displaySectionsToRender.map(this.renderControlPanelSection)}
               </Tab>
             }
