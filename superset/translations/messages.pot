@@ -8,608 +8,619 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 00:22-0700\n"
+"POT-Creation-Date: 2018-07-25 20:33+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
+"Generated-By: Babel 2.6.0\n"
 
-#: superset/assets/src/explore/controls.jsx:818 superset/db_engine_specs.py:343
-#: superset/db_engine_specs.py:393 superset/db_engine_specs.py:422
-#: superset/db_engine_specs.py:447 superset/db_engine_specs.py:499
-#: superset/db_engine_specs.py:561 superset/db_engine_specs.py:625
-#: superset/db_engine_specs.py:1190 superset/db_engine_specs.py:1232
-#: superset/db_engine_specs.py:1287 superset/db_engine_specs.py:1332
-#: superset/db_engine_specs.py:1365 superset/db_engine_specs.py:1395
-#: superset/db_engine_specs.py:1413
+#: superset/assets/src/explore/controls.jsx:826 superset/db_engine_specs.py:335
+#: superset/db_engine_specs.py:385 superset/db_engine_specs.py:410
+#: superset/db_engine_specs.py:431 superset/db_engine_specs.py:483
+#: superset/db_engine_specs.py:544 superset/db_engine_specs.py:625
+#: superset/db_engine_specs.py:1223 superset/db_engine_specs.py:1265
+#: superset/db_engine_specs.py:1320 superset/db_engine_specs.py:1368
+#: superset/db_engine_specs.py:1401 superset/db_engine_specs.py:1435
+#: superset/db_engine_specs.py:1453
 msgid "Time Column"
 msgstr ""
 
-#: superset/db_engine_specs.py:344 superset/db_engine_specs.py:394
-#: superset/db_engine_specs.py:448 superset/db_engine_specs.py:562
-#: superset/db_engine_specs.py:626 superset/db_engine_specs.py:1191
-#: superset/db_engine_specs.py:1233 superset/db_engine_specs.py:1333
-#: superset/db_engine_specs.py:1396 superset/db_engine_specs.py:1414
+#: superset/db_engine_specs.py:336 superset/db_engine_specs.py:386
+#: superset/db_engine_specs.py:432 superset/db_engine_specs.py:545
+#: superset/db_engine_specs.py:626 superset/db_engine_specs.py:1224
+#: superset/db_engine_specs.py:1266 superset/db_engine_specs.py:1369
+#: superset/db_engine_specs.py:1436 superset/db_engine_specs.py:1454
 msgid "second"
 msgstr ""
 
-#: superset/db_engine_specs.py:346 superset/db_engine_specs.py:395
-#: superset/db_engine_specs.py:423 superset/db_engine_specs.py:452
-#: superset/db_engine_specs.py:566 superset/db_engine_specs.py:629
-#: superset/db_engine_specs.py:1194 superset/db_engine_specs.py:1236
-#: superset/db_engine_specs.py:1288 superset/db_engine_specs.py:1334
-#: superset/db_engine_specs.py:1366 superset/db_engine_specs.py:1397
-#: superset/db_engine_specs.py:1417
+#: superset/db_engine_specs.py:338 superset/db_engine_specs.py:387
+#: superset/db_engine_specs.py:411 superset/db_engine_specs.py:436
+#: superset/db_engine_specs.py:549 superset/db_engine_specs.py:629
+#: superset/db_engine_specs.py:1227 superset/db_engine_specs.py:1269
+#: superset/db_engine_specs.py:1321 superset/db_engine_specs.py:1370
+#: superset/db_engine_specs.py:1402 superset/db_engine_specs.py:1437
+#: superset/db_engine_specs.py:1457
 msgid "minute"
 msgstr ""
 
-#: superset/db_engine_specs.py:348 superset/db_engine_specs.py:396
-#: superset/db_engine_specs.py:424 superset/db_engine_specs.py:457
-#: superset/db_engine_specs.py:500 superset/db_engine_specs.py:569
-#: superset/db_engine_specs.py:632 superset/db_engine_specs.py:1203
-#: superset/db_engine_specs.py:1239 superset/db_engine_specs.py:1297
-#: superset/db_engine_specs.py:1335 superset/db_engine_specs.py:1367
-#: superset/db_engine_specs.py:1398 superset/db_engine_specs.py:1420
+#: superset/db_engine_specs.py:340 superset/db_engine_specs.py:388
+#: superset/db_engine_specs.py:412 superset/db_engine_specs.py:441
+#: superset/db_engine_specs.py:484 superset/db_engine_specs.py:552
+#: superset/db_engine_specs.py:632 superset/db_engine_specs.py:1236
+#: superset/db_engine_specs.py:1272 superset/db_engine_specs.py:1330
+#: superset/db_engine_specs.py:1371 superset/db_engine_specs.py:1403
+#: superset/db_engine_specs.py:1438 superset/db_engine_specs.py:1460
 msgid "hour"
 msgstr ""
 
-#: superset/db_engine_specs.py:350 superset/db_engine_specs.py:397
-#: superset/db_engine_specs.py:425 superset/db_engine_specs.py:463
-#: superset/db_engine_specs.py:503 superset/db_engine_specs.py:572
-#: superset/db_engine_specs.py:635 superset/db_engine_specs.py:1206
-#: superset/db_engine_specs.py:1242 superset/db_engine_specs.py:1300
-#: superset/db_engine_specs.py:1336 superset/db_engine_specs.py:1368
-#: superset/db_engine_specs.py:1399 superset/db_engine_specs.py:1423
+#: superset/db_engine_specs.py:342 superset/db_engine_specs.py:389
+#: superset/db_engine_specs.py:413 superset/db_engine_specs.py:447
+#: superset/db_engine_specs.py:487 superset/db_engine_specs.py:555
+#: superset/db_engine_specs.py:635 superset/db_engine_specs.py:1239
+#: superset/db_engine_specs.py:1275 superset/db_engine_specs.py:1333
+#: superset/db_engine_specs.py:1372 superset/db_engine_specs.py:1404
+#: superset/db_engine_specs.py:1439 superset/db_engine_specs.py:1463
 msgid "day"
 msgstr ""
 
-#: superset/db_engine_specs.py:352 superset/db_engine_specs.py:398
-#: superset/db_engine_specs.py:426 superset/db_engine_specs.py:470
-#: superset/db_engine_specs.py:504 superset/db_engine_specs.py:573
-#: superset/db_engine_specs.py:638 superset/db_engine_specs.py:1209
-#: superset/db_engine_specs.py:1245 superset/db_engine_specs.py:1337
-#: superset/db_engine_specs.py:1369 superset/db_engine_specs.py:1400
-#: superset/db_engine_specs.py:1426
+#: superset/db_engine_specs.py:344 superset/db_engine_specs.py:390
+#: superset/db_engine_specs.py:414 superset/db_engine_specs.py:454
+#: superset/db_engine_specs.py:488 superset/db_engine_specs.py:556
+#: superset/db_engine_specs.py:638 superset/db_engine_specs.py:1242
+#: superset/db_engine_specs.py:1278 superset/db_engine_specs.py:1336
+#: superset/db_engine_specs.py:1373 superset/db_engine_specs.py:1405
+#: superset/db_engine_specs.py:1440 superset/db_engine_specs.py:1466
 msgid "week"
 msgstr ""
 
-#: superset/db_engine_specs.py:354 superset/db_engine_specs.py:399
-#: superset/db_engine_specs.py:427 superset/db_engine_specs.py:473
-#: superset/db_engine_specs.py:507 superset/db_engine_specs.py:576
-#: superset/db_engine_specs.py:641 superset/db_engine_specs.py:1212
-#: superset/db_engine_specs.py:1248 superset/db_engine_specs.py:1303
-#: superset/db_engine_specs.py:1338 superset/db_engine_specs.py:1370
-#: superset/db_engine_specs.py:1401 superset/db_engine_specs.py:1430
+#: superset/db_engine_specs.py:346 superset/db_engine_specs.py:391
+#: superset/db_engine_specs.py:415 superset/db_engine_specs.py:457
+#: superset/db_engine_specs.py:491 superset/db_engine_specs.py:559
+#: superset/db_engine_specs.py:641 superset/db_engine_specs.py:1245
+#: superset/db_engine_specs.py:1281 superset/db_engine_specs.py:1339
+#: superset/db_engine_specs.py:1374 superset/db_engine_specs.py:1406
+#: superset/db_engine_specs.py:1441 superset/db_engine_specs.py:1470
 msgid "month"
 msgstr ""
 
-#: superset/db_engine_specs.py:356 superset/db_engine_specs.py:400
-#: superset/db_engine_specs.py:428 superset/db_engine_specs.py:476
-#: superset/db_engine_specs.py:579 superset/db_engine_specs.py:644
-#: superset/db_engine_specs.py:1215 superset/db_engine_specs.py:1251
-#: superset/db_engine_specs.py:1306 superset/db_engine_specs.py:1339
-#: superset/db_engine_specs.py:1371 superset/db_engine_specs.py:1402
-#: superset/db_engine_specs.py:1433
+#: superset/db_engine_specs.py:348 superset/db_engine_specs.py:392
+#: superset/db_engine_specs.py:416 superset/db_engine_specs.py:460
+#: superset/db_engine_specs.py:562 superset/db_engine_specs.py:644
+#: superset/db_engine_specs.py:1248 superset/db_engine_specs.py:1284
+#: superset/db_engine_specs.py:1342 superset/db_engine_specs.py:1375
+#: superset/db_engine_specs.py:1407 superset/db_engine_specs.py:1442
+#: superset/db_engine_specs.py:1473
 msgid "quarter"
 msgstr ""
 
-#: superset/db_engine_specs.py:358 superset/db_engine_specs.py:401
-#: superset/db_engine_specs.py:429 superset/db_engine_specs.py:481
-#: superset/db_engine_specs.py:510 superset/db_engine_specs.py:582
-#: superset/db_engine_specs.py:655 superset/db_engine_specs.py:1218
-#: superset/db_engine_specs.py:1309 superset/db_engine_specs.py:1341
-#: superset/db_engine_specs.py:1372 superset/db_engine_specs.py:1403
-#: superset/db_engine_specs.py:1437
+#: superset/db_engine_specs.py:350 superset/db_engine_specs.py:393
+#: superset/db_engine_specs.py:417 superset/db_engine_specs.py:465
+#: superset/db_engine_specs.py:494 superset/db_engine_specs.py:565
+#: superset/db_engine_specs.py:655 superset/db_engine_specs.py:1251
+#: superset/db_engine_specs.py:1345 superset/db_engine_specs.py:1377
+#: superset/db_engine_specs.py:1408 superset/db_engine_specs.py:1443
+#: superset/db_engine_specs.py:1477
 msgid "year"
 msgstr ""
 
-#: superset/db_engine_specs.py:513 superset/db_engine_specs.py:647
-#: superset/db_engine_specs.py:1254
+#: superset/db_engine_specs.py:497 superset/db_engine_specs.py:647
+#: superset/db_engine_specs.py:1287
 msgid "week_ending_saturday"
 msgstr ""
 
-#: superset/db_engine_specs.py:516 superset/db_engine_specs.py:651
-#: superset/db_engine_specs.py:1258
+#: superset/db_engine_specs.py:500 superset/db_engine_specs.py:651
+#: superset/db_engine_specs.py:1291
 msgid "week_start_sunday"
 msgstr ""
 
-#: superset/db_engine_specs.py:585
+#: superset/db_engine_specs.py:568
 msgid "week_start_monday"
 msgstr ""
 
-#: superset/db_engine_specs.py:1197 superset/db_engine_specs.py:1291
+#: superset/db_engine_specs.py:1230 superset/db_engine_specs.py:1324
 msgid "5 minute"
 msgstr ""
 
-#: superset/db_engine_specs.py:1200
+#: superset/db_engine_specs.py:1233
 msgid "half hour"
 msgstr ""
 
-#: superset/db_engine_specs.py:1294
+#: superset/db_engine_specs.py:1327
 msgid "10 minute"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:234 superset/forms.py:56
+#: superset/connectors/sqla/views.py:238 superset/forms.py:58
 msgid "Table Name"
 msgstr ""
 
-#: superset/forms.py:57
+#: superset/forms.py:59
 msgid "Name of table to be created from csv data."
 msgstr ""
 
-#: superset/forms.py:61
+#: superset/forms.py:63
 msgid "CSV File"
 msgstr ""
 
-#: superset/forms.py:62
+#: superset/forms.py:64
 msgid "Select a CSV file to be uploaded to a database."
 msgstr ""
 
-#: superset/forms.py:64
+#: superset/forms.py:66
 msgid "CSV Files Only!"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:227 superset/forms.py:66
-#: superset/views/core.py:275 superset/views/sql_lab.py:24
+#: superset/connectors/sqla/views.py:231 superset/forms.py:68
+#: superset/views/core.py:279 superset/views/sql_lab.py:24
 #: superset/views/sql_lab.py:61
 msgid "Database"
 msgstr ""
 
-#: superset/forms.py:70
+#: superset/forms.py:72
 msgid "Delimiter"
 msgstr ""
 
-#: superset/forms.py:71
+#: superset/forms.py:73
 msgid "Delimiter used by CSV file (for whitespace use \\s+)."
 msgstr ""
 
-#: superset/forms.py:75
+#: superset/forms.py:77
 msgid "Table Exists"
 msgstr ""
 
-#: superset/forms.py:76
+#: superset/forms.py:78
 msgid ""
 "If table exists do one of the following: Fail (do nothing), Replace (drop"
 " and recreate table) or Append (insert data)."
 msgstr ""
 
-#: superset/forms.py:81
+#: superset/forms.py:83
 msgid "Fail"
 msgstr ""
 
-#: superset/forms.py:81
+#: superset/forms.py:83
 msgid "Replace"
 msgstr ""
 
-#: superset/forms.py:82
+#: superset/forms.py:84
 msgid "Append"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:230 superset/forms.py:85
+#: superset/connectors/sqla/views.py:234 superset/forms.py:87
 msgid "Schema"
 msgstr ""
 
-#: superset/forms.py:86
+#: superset/forms.py:88
 msgid "Specify a schema (if database flavour supports this)."
 msgstr ""
 
-#: superset/forms.py:91
+#: superset/forms.py:93
 msgid "Header Row"
 msgstr ""
 
-#: superset/forms.py:92
+#: superset/forms.py:94
 msgid ""
 "Row containing the headers to use as column names (0 is first line of "
 "data). Leave empty if there is no header row."
 msgstr ""
 
-#: superset/forms.py:100
+#: superset/forms.py:102
 msgid "Index Column"
 msgstr ""
 
-#: superset/forms.py:101
+#: superset/forms.py:103
 msgid ""
 "Column to use as the row labels of the dataframe. Leave empty if no index"
 " column."
 msgstr ""
 
-#: superset/forms.py:108
+#: superset/forms.py:110
 msgid "Mangle Duplicate Columns"
 msgstr ""
 
-#: superset/forms.py:109
+#: superset/forms.py:111
 msgid "Specify duplicate columns as \"X.0, X.1\"."
 msgstr ""
 
-#: superset/forms.py:111
+#: superset/forms.py:113
 msgid "Skip Initial Space"
 msgstr ""
 
-#: superset/forms.py:112
+#: superset/forms.py:114
 msgid "Skip spaces after delimiter."
 msgstr ""
 
-#: superset/forms.py:114
+#: superset/forms.py:116
 msgid "Skip Rows"
 msgstr ""
 
-#: superset/forms.py:115
+#: superset/forms.py:117
 msgid "Number of rows to skip at start of file."
 msgstr ""
 
-#: superset/forms.py:120
+#: superset/forms.py:122
 msgid "Rows to Read"
 msgstr ""
 
-#: superset/forms.py:121
+#: superset/forms.py:123
 msgid "Number of rows of file to read."
 msgstr ""
 
-#: superset/forms.py:126
+#: superset/forms.py:128
 msgid "Skip Blank Lines"
 msgstr ""
 
-#: superset/forms.py:127
+#: superset/forms.py:129
 msgid "Skip blank lines rather than interpreting them as NaN values."
 msgstr ""
 
-#: superset/forms.py:131
+#: superset/forms.py:133
 msgid "Parse Dates"
 msgstr ""
 
-#: superset/forms.py:132
+#: superset/forms.py:134
 msgid "A comma separated list of columns that should be parsed as dates."
 msgstr ""
 
-#: superset/forms.py:137
+#: superset/forms.py:139
 msgid "Infer Datetime Format"
 msgstr ""
 
-#: superset/forms.py:138
+#: superset/forms.py:140
 msgid "Use Pandas to interpret the datetime format automatically."
 msgstr ""
 
-#: superset/forms.py:142
+#: superset/forms.py:144
 msgid "Decimal Character"
 msgstr ""
 
-#: superset/forms.py:143
+#: superset/forms.py:145
 msgid "Character to interpret as decimal point."
 msgstr ""
 
-#: superset/forms.py:148
+#: superset/forms.py:150
 msgid "Dataframe Index"
 msgstr ""
 
-#: superset/forms.py:149
+#: superset/forms.py:151
 msgid "Write dataframe index as a column."
 msgstr ""
 
-#: superset/forms.py:151
+#: superset/forms.py:153
 msgid "Column Label(s)"
 msgstr ""
 
-#: superset/forms.py:152
+#: superset/forms.py:154
 msgid ""
 "Column label for index column(s). If None is given and Dataframe Index is"
 " True, Index Names are used."
 msgstr ""
 
-#: superset/utils.py:576
+#: superset/utils.py:581
 #, python-format
 msgid "[Superset] Access to the datasource %(name)s was granted"
 msgstr ""
 
-#: superset/viz.py:65
+#: superset/viz.py:68
 msgid "Viz is missing a datasource"
 msgstr ""
 
-#: superset/viz.py:277
+#: superset/viz.py:270
 msgid "From date cannot be larger than to date"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:881 superset/viz.py:483
+#: superset/assets/src/explore/visTypes.jsx:899 superset/viz.py:476
 msgid "Table View"
 msgstr ""
 
-#: superset/viz.py:495
+#: superset/viz.py:489
 msgid "Pick a granularity in the Time section or uncheck 'Include Time'"
 msgstr ""
 
-#: superset/viz.py:505
+#: superset/viz.py:499
 msgid "Choose either fields to [Group By] and [Metrics] or [Columns], not both"
 msgstr ""
 
-#: superset/viz.py:587
+#: superset/viz.py:585
 msgid "Time Table View"
 msgstr ""
 
-#: superset/viz.py:596 superset/viz.py:1495
+#: superset/viz.py:594 superset/viz.py:1503
 msgid "Pick at least one metric"
 msgstr ""
 
-#: superset/viz.py:599
+#: superset/viz.py:597
 msgid "When using 'Group By' you are limited to use a single metric"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:966 superset/viz.py:628
+#: superset/assets/src/explore/visTypes.jsx:993 superset/viz.py:626
 msgid "Pivot Table"
 msgstr ""
 
-#: superset/viz.py:642
+#: superset/viz.py:640
 msgid "Please choose at least one 'Group by' field "
 msgstr ""
 
-#: superset/viz.py:644
+#: superset/viz.py:642
 msgid "Please choose at least one metric"
 msgstr ""
 
-#: superset/viz.py:648
+#: superset/viz.py:646
 msgid "Group By' and 'Columns' can't overlap"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:952 superset/viz.py:681
+#: superset/assets/src/explore/visTypes.jsx:979 superset/viz.py:679
 msgid "Markup"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:992 superset/viz.py:703
+#: superset/assets/src/explore/visTypes.jsx:1021 superset/viz.py:701
 msgid "Separator"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1014 superset/viz.py:715
+#: superset/assets/src/explore/visTypes.jsx:1043 superset/viz.py:713
 msgid "Word Cloud"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1036 superset/viz.py:738
+#: superset/assets/src/explore/visTypes.jsx:1067 superset/viz.py:735
 msgid "Treemap"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1064 superset/viz.py:764
+#: superset/assets/src/explore/visTypes.jsx:1096 superset/viz.py:761
 msgid "Calendar Heatmap"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1102 superset/viz.py:829
+#: superset/assets/src/explore/visTypes.jsx:1135 superset/viz.py:825
 msgid "Box Plot"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1124 superset/viz.py:918
+#: superset/assets/src/explore/visTypes.jsx:1159 superset/viz.py:914
 msgid "Bubble Chart"
 msgstr ""
 
-#: superset/viz.py:942
+#: superset/viz.py:938
 msgid "Pick a metric for x, y and size"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1174 superset/viz.py:968
+#: superset/assets/src/explore/visTypes.jsx:1212 superset/viz.py:964
 msgid "Bullet Chart"
 msgstr ""
 
-#: superset/viz.py:994
+#: superset/viz.py:990
 msgid "Pick a metric to display"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1198 superset/viz.py:1017
+#: superset/assets/src/explore/visTypes.jsx:1237 superset/viz.py:1013
 msgid "Big Number with Trendline"
 msgstr ""
 
-#: superset/viz.py:1025 superset/viz.py:1054
+#: superset/viz.py:1021 superset/viz.py:1050
 msgid "Pick a metric!"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1225 superset/viz.py:1046
+#: superset/assets/src/explore/visTypes.jsx:1265 superset/viz.py:1042
 msgid "Big Number"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:184 superset/viz.py:1073
+#: superset/assets/src/explore/visTypes.jsx:172 superset/viz.py:1069
 msgid "Time Series - Line Chart"
 msgstr ""
 
-#: superset/viz.py:1136 superset/viz.py:1338
+#: superset/viz.py:1132 superset/viz.py:1346
 msgid "Pick a time granularity for your time series"
 msgstr ""
 
-#: superset/viz.py:1220
+#: superset/viz.py:1201
 msgid ""
 "`Since` and `Until` time bounds should be specified when using the `Time "
 "Shift` feature."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:229 superset/viz.py:1252
+#: superset/assets/src/explore/visTypes.jsx:217 superset/viz.py:1259
 msgid "Time Series - Multiple Line Charts"
 msgstr ""
 
-#: superset/viz.py:1281
+#: superset/viz.py:1288
 msgid "Time Series - Dual Axis Line Chart"
 msgstr ""
 
-#: superset/viz.py:1291
+#: superset/viz.py:1298
 msgid "Pick a metric for left axis!"
 msgstr ""
 
-#: superset/viz.py:1293
+#: superset/viz.py:1300
 msgid "Pick a metric for right axis!"
 msgstr ""
 
-#: superset/viz.py:1295
+#: superset/viz.py:1302
 msgid "Please choose different metrics on left and right axis"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:394 superset/viz.py:1356
+#: superset/assets/src/explore/visTypes.jsx:396 superset/viz.py:1364
 msgid "Time Series - Bar Chart"
 msgstr ""
 
-#: superset/viz.py:1365
+#: superset/viz.py:1373
 msgid "Time Series - Period Pivot"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:440 superset/viz.py:1405
+#: superset/assets/src/explore/visTypes.jsx:442 superset/viz.py:1413
 msgid "Time Series - Percent Change"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:835 superset/viz.py:1413
+#: superset/assets/src/explore/visTypes.jsx:853 superset/viz.py:1421
 msgid "Time Series - Stacked"
 msgstr ""
 
-#: superset/viz.py:1422
+#: superset/viz.py:1430
 msgid "Distribution - NVD3 - Pie Chart"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1252 superset/viz.py:1441
+#: superset/assets/src/explore/visTypes.jsx:1292 superset/viz.py:1449
 msgid "Histogram"
 msgstr ""
 
-#: superset/viz.py:1451
+#: superset/viz.py:1459
 msgid "Must have at least one numeric column specified"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:110 superset/viz.py:1482
+#: superset/assets/src/explore/visTypes.jsx:93 superset/viz.py:1490
 msgid "Distribution - Bar Chart"
 msgstr ""
 
-#: superset/viz.py:1493
+#: superset/viz.py:1501
 msgid "Can't have overlap between Series and Breakdowns"
 msgstr ""
 
-#: superset/viz.py:1497
+#: superset/viz.py:1505
 msgid "Pick at least one field for [Series]"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1294 superset/viz.py:1551
+#: superset/assets/src/explore/visTypes.jsx:1335 superset/viz.py:1559
 msgid "Sunburst"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1333 superset/viz.py:1582
+#: superset/assets/src/explore/visTypes.jsx:1376 superset/viz.py:1590
 msgid "Sankey"
 msgstr ""
 
-#: superset/viz.py:1589
+#: superset/viz.py:1597
 msgid "Pick exactly 2 columns as [Source / Target]"
 msgstr ""
 
-#: superset/viz.py:1620
+#: superset/viz.py:1630
 msgid ""
 "There's a loop in your Sankey, please provide a tree. Here's a faulty "
 "link: {}"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1361 superset/viz.py:1631
-#: superset/viz.py:1652
+#: superset/assets/src/explore/visTypes.jsx:1405 superset/viz.py:1641
+#: superset/viz.py:1662
 msgid "Directed Force Layout"
 msgstr ""
 
-#: superset/viz.py:1638
+#: superset/viz.py:1648
 msgid "Pick exactly 2 columns to 'Group By'"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1427 superset/viz.py:1685
+#: superset/assets/src/explore/visTypes.jsx:1475 superset/viz.py:1695
 msgid "Country Map"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1461 superset/viz.py:1713
+#: superset/assets/src/explore/visTypes.jsx:1510 superset/viz.py:1723
 msgid "World Map"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1840
-#: superset/assets/src/explore/visTypes.js:85 superset/viz.py:1763
+#: superset/assets/src/explore/controls.jsx:1820 superset/viz.py:1773
 msgid "Filters"
 msgstr ""
 
-#: superset/viz.py:1784
+#: superset/viz.py:1794
 msgid "Pick at least one filter field"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1526 superset/viz.py:1809
+#: superset/assets/src/explore/visTypes.jsx:1577 superset/viz.py:1819
 msgid "iFrame"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1538 superset/viz.py:1829
+#: superset/assets/src/explore/visTypes.jsx:1589 superset/viz.py:1839
 msgid "Parallel Coordinates"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1560 superset/viz.py:1854
+#: superset/assets/src/explore/visTypes.jsx:1612 superset/viz.py:1864
 msgid "Heatmap"
 msgstr ""
 
-#: superset/viz.py:1910
+#: superset/viz.py:1920
 msgid "Horizon Charts"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1621 superset/viz.py:1921
+#: superset/assets/src/explore/visTypes.jsx:1675 superset/viz.py:1931
 msgid "Mapbox"
 msgstr ""
 
-#: superset/viz.py:1936
+#: superset/viz.py:1946
 msgid "Must have a [Group By] column to have 'count' as the [Label]"
 msgstr ""
 
-#: superset/viz.py:1949
+#: superset/viz.py:1959
 msgid "Choice of [Label] must be present in [Group By]"
 msgstr ""
 
-#: superset/viz.py:1954
+#: superset/viz.py:1964
 msgid "Choice of [Point Radius] must be present in [Group By]"
 msgstr ""
 
-#: superset/viz.py:1959
+#: superset/viz.py:1969
 msgid "[Longitude] and [Latitude] columns must be present in [Group By]"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:481 superset/viz.py:2028
+#: superset/assets/src/explore/visTypes.jsx:483 superset/viz.py:2038
 msgid "Deck.gl - Multiple Layers"
 msgstr ""
 
-#: superset/viz.py:2067 superset/viz.py:2080
+#: superset/viz.py:2077 superset/viz.py:2101
 msgid "Bad spatial key"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:768 superset/viz.py:2163
+#: superset/viz.py:2095
+#, python-format
+msgid "Invalid spatial point encountered: %s"
+msgstr ""
+
+#: superset/viz.py:2124
+msgid ""
+"Encountered invalid NULL spatial entry,"
+"                                        please consider filtering those "
+"out"
+msgstr ""
+
+#: superset/assets/src/explore/visTypes.jsx:785 superset/viz.py:2186
 msgid "Deck.gl - Scatter plot"
 msgstr ""
 
-#: superset/viz.py:2206
+#: superset/viz.py:2231
 msgid "Deck.gl - Screen Grid"
 msgstr ""
 
-#: superset/viz.py:2228
+#: superset/viz.py:2257
 msgid "Deck.gl - 3D Grid"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:573 superset/viz.py:2243
+#: superset/assets/src/explore/visTypes.jsx:584 superset/viz.py:2276
 msgid "Deck.gl - Paths"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:690 superset/viz.py:2276
+#: superset/assets/src/explore/visTypes.jsx:705 superset/viz.py:2309
 msgid "Deck.gl - Polygon"
 msgstr ""
 
-#: superset/viz.py:2284
+#: superset/viz.py:2317
 msgid "Deck.gl - 3D HEX"
 msgstr ""
 
-#: superset/viz.py:2299
+#: superset/viz.py:2336
 msgid "Deck.gl - GeoJSON"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:730 superset/viz.py:2318
+#: superset/assets/src/explore/visTypes.jsx:746 superset/viz.py:2355
 msgid "Deck.gl - Arc"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1691 superset/viz.py:2342
+#: superset/assets/src/explore/visTypes.jsx:1746 superset/viz.py:2379
 msgid "Event flow"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1736 superset/viz.py:2373
+#: superset/assets/src/explore/visTypes.jsx:1798 superset/viz.py:2410
 msgid "Time Series - Paired t-test"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1754 superset/viz.py:2431
+#: superset/assets/src/explore/visTypes.jsx:1816 superset/viz.py:2468
 msgid "Time Series - Nightingale Rose Chart"
 msgstr ""
 
-#: superset/viz.py:2461
+#: superset/viz.py:2498
 msgid "Partition Diagram"
 msgstr ""
 
@@ -617,45 +628,49 @@ msgstr ""
 msgid "Your session timed out, please refresh your page and try again."
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:59
+#: superset/assets/src/SqlLab/actions.js:68
 msgid "Your query was saved"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:60
+#: superset/assets/src/SqlLab/actions.js:71
 msgid "Your query could not be saved"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:113
+#: superset/assets/src/SqlLab/actions.js:134
 msgid "Failed at retrieving results from the results backend"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:163
+#: superset/assets/src/SqlLab/actions.js:184
 msgid "Unknown error"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:186
+#: superset/assets/src/SqlLab/actions.js:207
 msgid "Query was stopped."
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:189
+#: superset/assets/src/SqlLab/actions.js:210
 msgid "Failed at stopping query."
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:309
-#: superset/assets/src/SqlLab/actions.js:322
+#: superset/assets/src/SqlLab/actions.js:320
+#: superset/assets/src/SqlLab/actions.js:333
 msgid "Error occurred while fetching table metadata"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:376
+#: superset/assets/src/SqlLab/actions.js:387
 msgid "shared query"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:384
-#: superset/assets/src/SqlLab/actions.js:404
+#: superset/assets/src/SqlLab/actions.js:396
+#: superset/assets/src/SqlLab/actions.js:418
 msgid "The query couldn't be loaded"
 msgstr ""
 
-#: superset/assets/src/SqlLab/actions.js:438
+#: superset/assets/src/SqlLab/actions.js:439
+msgid "The datasource couldn't be loaded"
+msgstr ""
+
+#: superset/assets/src/SqlLab/actions.js:474
 msgid "An error occurred while creating the data source"
 msgstr ""
 
@@ -676,12 +691,12 @@ msgid "To use this chart type you need at least one aggregation function"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/QueryTable.jsx:49
-#: superset/assets/src/SqlLab/components/SqlEditor.jsx:112
-#: superset/assets/src/SqlLab/reducers.js:11
+#: superset/assets/src/SqlLab/components/SqlEditor.jsx:114
+#: superset/assets/src/SqlLab/getInitialState.js:9
 msgid "Untitled Query"
 msgstr ""
 
-#: superset/assets/src/SqlLab/reducers.js:44
+#: superset/assets/src/SqlLab/reducers.js:30
 #, python-format
 msgid "Copy of %s"
 msgstr ""
@@ -704,7 +719,6 @@ msgid "Source SQL"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/HighlightedSql.jsx:83
-#: superset/assets/src/explore/visTypes.js:44
 msgid "SQL"
 msgstr ""
 
@@ -712,29 +726,29 @@ msgstr ""
 msgid "No query history yet..."
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:123
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:67
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:131
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:66
 msgid "It seems you don't have access to any database"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:171
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:89
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:178
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:92
 msgid "Search Results"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:177
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:184
 msgid "[From]-"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:187
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:196
 msgid "[To]-"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:196
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:205
 msgid "[Query Status]"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/QuerySearch.jsx:205
+#: superset/assets/src/SqlLab/components/QuerySearch.jsx:214
 msgid "Search"
 msgstr ""
 
@@ -766,40 +780,40 @@ msgstr ""
 msgid "Remove query from log"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:67
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:70
 msgid ".CSV"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:78
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:81
 #: superset/assets/src/SqlLab/components/VisualizeModal.jsx:247
 #: superset/assets/src/SqlLab/components/VisualizeModal.jsx:286
 msgid "Visualize"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:163
-#: superset/connectors/sqla/views.py:88 superset/connectors/sqla/views.py:136
-#: superset/connectors/sqla/views.py:225 superset/views/core.py:467
-msgid "Table"
-msgstr ""
-
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:163
-msgid "was created"
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:164
+msgid "(Common errors and their resolutions)"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/ResultSet.jsx:170
+#: superset/connectors/sqla/views.py:88 superset/connectors/sqla/views.py:136
+#: superset/connectors/sqla/views.py:229 superset/views/core.py:472
+msgid "Table"
+msgstr ""
+
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:170
+msgid "was created"
+msgstr ""
+
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:177
 msgid "Query in a new tab"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:211
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:218
 msgid "Fetch data preview"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:231
+#: superset/assets/src/SqlLab/components/ResultSet.jsx:238
 msgid "Track Job"
-msgstr ""
-
-#: superset/assets/src/SqlLab/components/ResultSet.jsx:237
-msgid "Loading..."
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/RunQueryActionButton.jsx:21
@@ -838,9 +852,9 @@ msgstr ""
 
 #: superset/assets/src/SqlLab/components/SaveQuery.jsx:82
 #: superset/connectors/druid/views.py:134
-#: superset/connectors/druid/views.py:258 superset/connectors/sqla/views.py:85
-#: superset/connectors/sqla/views.py:132 superset/connectors/sqla/views.py:238
-#: superset/views/core.py:461 superset/views/sql_lab.py:62
+#: superset/connectors/druid/views.py:268 superset/connectors/sqla/views.py:85
+#: superset/connectors/sqla/views.py:132 superset/connectors/sqla/views.py:242
+#: superset/views/core.py:466 superset/views/sql_lab.py:62
 msgid "Description"
 msgstr ""
 
@@ -849,9 +863,8 @@ msgid "Write a description for your query"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/SaveQuery.jsx:100
-#: superset/assets/src/dashboard/components/Controls.jsx:125
-#: superset/assets/src/dashboard/components/SaveModal.jsx:151
-#: superset/assets/src/explore/components/SaveModal.jsx:221
+#: superset/assets/src/dashboard/components/SaveModal.jsx:149
+#: superset/assets/src/explore/components/SaveModal.jsx:228
 msgid "Save"
 msgstr ""
 
@@ -873,44 +886,44 @@ msgstr ""
 msgid "Run a query to display results here"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SouthPane.jsx:57
+#: superset/assets/src/SqlLab/components/SouthPane.jsx:56
 #, python-format
 msgid "Preview for %s"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SouthPane.jsx:81
+#: superset/assets/src/SqlLab/components/SouthPane.jsx:80
 msgid "Results"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SouthPane.jsx:87
+#: superset/assets/src/SqlLab/components/SouthPane.jsx:86
 msgid "Query History"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditor.jsx:165
+#: superset/assets/src/SqlLab/components/SqlEditor.jsx:167
 msgid "Create table as with query results"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditor.jsx:173
+#: superset/assets/src/SqlLab/components/SqlEditor.jsx:175
 msgid "new table name"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:91
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:89
 msgid "Error while fetching table list"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:132
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:130
 msgid "Error while fetching schema list"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:146
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:144
 msgid "Type to search ..."
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:148
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:146
 msgid "Select table "
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:162
+#: superset/assets/src/SqlLab/components/SqlEditorLeftBar.jsx:161
 msgid "Error while fetching database list"
 msgstr ""
 
@@ -940,28 +953,28 @@ msgstr ""
 msgid "Reset State"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:106
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:108
 msgid "Enter a new title for the tab"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:125
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:127
 #, python-format
 msgid "Untitled Query %s"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:171
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:173
 msgid "close tab"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:174
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:176
 msgid "rename tab"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:182
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:184
 msgid "expand tool bar"
 msgstr ""
 
-#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:182
+#: superset/assets/src/SqlLab/components/TabbedSqlEditors.jsx:184
 msgid "hide tool bar"
 msgstr ""
 
@@ -1024,7 +1037,7 @@ msgid "using only alphanumeric characters and underscores"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/VisualizeModal.jsx:171
-msgid "Creating a data source and popping a new tab"
+msgid "Creating a data source and creating a new tab"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/VisualizeModal.jsx:202
@@ -1032,7 +1045,7 @@ msgid "No results available for this query"
 msgstr ""
 
 #: superset/assets/src/SqlLab/components/VisualizeModal.jsx:254
-#: superset/assets/src/explore/visTypes.js:285
+#: superset/assets/src/explore/visTypes.jsx:278
 msgid "Chart Type"
 msgstr ""
 
@@ -1076,28 +1089,32 @@ msgstr ""
 msgid "Create new chart"
 msgstr ""
 
-#: superset/assets/src/chart/chartAction.js:169
+#: superset/assets/src/chart/chartAction.js:179
 msgid "Unexpected error: "
 msgstr ""
 
-#: superset/assets/src/chart/chartAction.js:178
+#: superset/assets/src/chart/chartAction.js:188
 msgid "Unexpected error."
 msgstr ""
 
-#: superset/assets/src/chart/chartReducer.js:55
+#: superset/assets/src/chart/chartAction.js:220
+msgid "The SQL couldn't be loaded"
+msgstr ""
+
+#: superset/assets/src/chart/chartReducer.js:46
 msgid "Updating chart was stopped"
 msgstr ""
 
-#: superset/assets/src/chart/chartReducer.js:66
+#: superset/assets/src/chart/chartReducer.js:57
 #, python-format
 msgid "An error occurred while rendering the visualization: %s"
 msgstr ""
 
-#: superset/assets/src/chart/chartReducer.js:74
+#: superset/assets/src/chart/chartReducer.js:65
 msgid "visualization queries are set to timeout at ${action.timeout} seconds. "
 msgstr ""
 
-#: superset/assets/src/chart/chartReducer.js:75
+#: superset/assets/src/chart/chartReducer.js:66
 msgid ""
 "Perhaps your data has grown, your database is under unusual load, or you "
 "are simply querying a data source that is too large to be processed "
@@ -1105,25 +1122,25 @@ msgid ""
 "summarize your data further."
 msgstr ""
 
-#: superset/assets/src/chart/chartReducer.js:84
-#: superset/assets/src/chart/chartReducer.js:134
+#: superset/assets/src/chart/chartReducer.js:75
+#: superset/assets/src/chart/chartReducer.js:125
 msgid "Network error."
 msgstr ""
 
-#: superset/assets/src/components/AlteredSliceTag.jsx:113
+#: superset/assets/src/components/AlteredSliceTag.jsx:119
 msgid "Click to see difference"
 msgstr ""
 
-#: superset/assets/src/components/AlteredSliceTag.jsx:119
+#: superset/assets/src/components/AlteredSliceTag.jsx:125
 msgid "Altered"
 msgstr ""
 
-#: superset/assets/src/components/AlteredSliceTag.jsx:137
+#: superset/assets/src/components/AlteredSliceTag.jsx:143
 msgid "Chart changes"
 msgstr ""
 
 #: superset/assets/src/components/AsyncSelect.jsx:23
-#: superset/assets/src/explore/components/controls/SelectAsyncControl.jsx:27
+#: superset/assets/src/explore/components/controls/SelectAsyncControl.jsx:30
 msgid "Select ..."
 msgstr ""
 
@@ -1140,7 +1157,7 @@ msgid "Click to force-refresh"
 msgstr ""
 
 #: superset/assets/src/components/CopyToClipboard.jsx:21
-#: superset/assets/src/components/URLShortLinkButton.jsx:38
+#: superset/assets/src/components/URLShortLinkButton.jsx:41
 #: superset/assets/src/explore/components/EmbedCodeButton.jsx:68
 msgid "Copy to clipboard"
 msgstr ""
@@ -1157,16 +1174,16 @@ msgstr ""
 msgid "Copied!"
 msgstr ""
 
-#: superset/assets/src/components/EditableTitle.jsx:14
-#: superset/views/core.py:571 superset/views/core.py:641
+#: superset/assets/src/components/EditableTitle.jsx:15
+#: superset/views/core.py:573 superset/views/core.py:643
 msgid "Title"
 msgstr ""
 
-#: superset/assets/src/components/EditableTitle.jsx:105
+#: superset/assets/src/components/EditableTitle.jsx:135
 msgid "click to edit title"
 msgstr ""
 
-#: superset/assets/src/components/EditableTitle.jsx:106
+#: superset/assets/src/components/EditableTitle.jsx:136
 msgid "You don't have the rights to alter this title."
 msgstr ""
 
@@ -1178,101 +1195,118 @@ msgstr ""
 msgid "Dismiss"
 msgstr ""
 
-#: superset/assets/src/components/URLShortLinkButton.jsx:33
+#: superset/assets/src/components/URLShortLinkButton.jsx:36
 #, python-format
 msgid "%s%s"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/CodeModal.jsx:35
+#: superset/assets/src/dashboard/actions/dashboardState.js:124
+msgid "This dashboard was saved successfully."
+msgstr ""
+
+#: superset/assets/src/dashboard/components/AddSliceCard.jsx:53
+msgid "Added"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/BuilderComponentPane.jsx:71
+msgid "Insert"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/BuilderComponentPane.jsx:85
+msgid "Your charts & filters"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/BuilderComponentPane.jsx:104
+msgid "All components"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/CodeModal.jsx:39
 msgid "Active Dashboard Filters"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/Controls.jsx:120
-#, python-format
-msgid "Checkout this dashboard: %s"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:123
-#: superset/assets/src/explore/components/SaveModal.jsx:163
-msgid "Save as"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:131
-msgid "Force Refresh"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:132
-msgid "Force refresh the whole dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:140
-msgid "Set autorefresh"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:141
-msgid "Set the auto-refresh interval for this session"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:156
-msgid "Save the dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:164
-msgid "Edit properties"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:165
-msgid "Edit the dashboards's properties"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:172
-msgid "Email"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:173
-msgid "Email a link to this dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:185
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:196
-msgid "Add Charts"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:186
-msgid "Add some charts to this dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:197
-msgid "Edit CSS"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/Controls.jsx:198
-msgid "Change the style of the dashboard using CSS code"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/CssEditor.jsx:45
+#: superset/assets/src/dashboard/components/CssEditor.jsx:50
 msgid "Load a template"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/CssEditor.jsx:48
+#: superset/assets/src/dashboard/components/CssEditor.jsx:53
 msgid "Load a CSS template"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/CssEditor.jsx:60
-#: superset/views/core.py:578
+#: superset/assets/src/dashboard/components/CssEditor.jsx:66
+#: superset/views/core.py:580
 msgid "CSS"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/CssEditor.jsx:66
+#: superset/assets/src/dashboard/components/CssEditor.jsx:72
 msgid "Live CSS Editor"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/Dashboard.jsx:156
+#: superset/assets/src/dashboard/components/Dashboard.jsx:65
 msgid "You have unsaved changes."
 msgstr ""
 
-#: superset/assets/src/dashboard/components/Header.jsx:50
-msgid "Unsaved changes"
+#: superset/assets/src/dashboard/components/Header.jsx:219
+msgid "Hide components"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/Header.jsx:220
+msgid "Insert components"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/Header.jsx:231
+msgid "Save changes"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/Header.jsx:243
+msgid "Edit dashboard"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/Header.jsx:255
+msgid "Switch to view mode"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:87
+#, python-format
+msgid "Check out this dashboard: %s"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:110
+#: superset/assets/src/explore/components/SaveModal.jsx:166
+msgid "Save as"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:118
+msgid "Discard changes"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:125
+msgid "Force refresh dashboard"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:131
+msgid "Set auto-refresh interval"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:138
+msgid "Edit dashboard metadata"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:142
+msgid "Email dashboard link"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/HeaderActionsDropdown.jsx:146
+msgid "Edit CSS"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/MissingChart.jsx:18
+msgid ""
+"There is no chart definition associated with this component, could it "
+"have been deleted?"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/MissingChart.jsx:23
+msgid "Delete this container and save to remove this message."
 msgstr ""
 
 #: superset/assets/src/dashboard/components/RefreshIntervalModal.jsx:19
@@ -1323,19 +1357,7 @@ msgstr ""
 msgid "Choose the refresh frequency for this dashboard"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SaveModal.jsx:66
-msgid "This dashboard was saved successfully."
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SaveModal.jsx:72
-msgid "Sorry, there was an error saving this dashboard: "
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SaveModal.jsx:95
-msgid "Error"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SaveModal.jsx:96
+#: superset/assets/src/dashboard/components/SaveModal.jsx:93
 msgid "You must pick a name for the new dashboard"
 msgstr ""
 
@@ -1343,97 +1365,93 @@ msgstr ""
 msgid "Save Dashboard"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SaveModal.jsx:119
+#: superset/assets/src/dashboard/components/SaveModal.jsx:120
 #, python-format
 msgid "Overwrite Dashboard [%s]"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SaveModal.jsx:127
+#: superset/assets/src/dashboard/components/SaveModal.jsx:128
 msgid "Save as:"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SaveModal.jsx:131
-#: superset/assets/src/explore/components/SaveModal.jsx:209
+#: superset/assets/src/dashboard/components/SaveModal.jsx:132
+#: superset/assets/src/explore/components/SaveModal.jsx:216
 msgid "[dashboard name]"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:73
-msgid "Sorry, there was an error fetching charts to this dashboard: "
+#: superset/assets/src/dashboard/components/SaveModal.jsx:142
+msgid "also copy (duplicate) charts"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:93
-msgid "Sorry, there was an error adding charts to this dashboard: "
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:163
-#: superset/views/core.py:466
-msgid "Name"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:169
-msgid "Viz"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:177
-#: superset/assets/src/explore/controls.jsx:187
-#: superset/connectors/druid/views.py:52 superset/views/core.py:404
-#: superset/views/core.py:428 superset/views/core.py:460
-msgid "Datasource"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:186
-#: superset/views/core.py:576 superset/views/core.py:643
-#: superset/views/sql_lab.py:63
-msgid "Modified"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:205
-msgid "Add a new chart to the dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceAdder.jsx:211
-msgid "Add Charts to Dashboard"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:65
-#, python-format
-msgid "Served from data cached %s . Click to force refresh."
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:66
-msgid "Force refresh data"
-msgstr ""
-
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:67
+#: superset/assets/src/dashboard/components/SliceHeader.jsx:49
 msgid "Annotation layers are still loading."
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:68
+#: superset/assets/src/dashboard/components/SliceHeader.jsx:50
 msgid "One ore more annotation layers failed loading."
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:107
-msgid "Move chart"
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:109
+#, python-format
+msgid "Cached %s"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:127
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:110
+#, python-format
+msgid "Fetched %s"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:126
+msgid "Force refresh"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:134
 msgid "Toggle chart description"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:138
-msgid "Edit chart"
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:140
+msgid "Edit chart metadata"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:148
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:144
 msgid "Export CSV"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:158
+#: superset/assets/src/dashboard/components/SliceHeaderControls.jsx:148
 msgid "Explore chart"
 msgstr ""
 
-#: superset/assets/src/dashboard/components/SliceHeader.jsx:169
-msgid "Remove chart from dashboard"
+#: superset/assets/src/dashboard/components/menu/MarkdownModeDropdown.jsx:16
+#: superset/assets/src/explore/components/controls/TextAreaControl.jsx:98
+msgid "Edit"
+msgstr ""
+
+#: superset/assets/src/dashboard/components/menu/MarkdownModeDropdown.jsx:20
+msgid "Preview"
+msgstr ""
+
+#: superset/assets/src/dashboard/reducers/sliceEntities.js:37
+msgid "Sorry, there was an error fetching slices: "
+msgstr ""
+
+#: superset/assets/src/dashboard/util/backgroundStyleOptions.js:7
+msgid "Transparent"
+msgstr ""
+
+#: superset/assets/src/dashboard/util/backgroundStyleOptions.js:12
+msgid "White"
+msgstr ""
+
+#: superset/assets/src/dashboard/util/headerStyleOptions.js:7
+msgid "Small"
+msgstr ""
+
+#: superset/assets/src/dashboard/util/headerStyleOptions.js:12
+msgid "Medium"
+msgstr ""
+
+#: superset/assets/src/dashboard/util/headerStyleOptions.js:17
+msgid "Large"
 msgstr ""
 
 #: superset/assets/src/explore/controls.jsx:85
@@ -1448,250 +1466,256 @@ msgstr ""
 msgid "One or many controls to group by"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:121
+#: superset/assets/src/explore/controls.jsx:125
 msgid "Metrics"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:135
-#: superset/assets/src/explore/controls.jsx:226
+#: superset/assets/src/explore/controls.jsx:139
+#: superset/assets/src/explore/controls.jsx:231
 msgid "One or many metrics to display"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:140
-#: superset/assets/src/explore/visTypes.js:1452
+#: superset/assets/src/explore/controls.jsx:144
+#: superset/assets/src/explore/visTypes.jsx:1501
 #: superset/connectors/druid/views.py:133 superset/connectors/sqla/views.py:131
 msgid "Metric"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:149
+#: superset/assets/src/explore/controls.jsx:153
 msgid ""
 "For more information about objects are in context in the scope of this "
 "function, refer to the"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:151
+#: superset/assets/src/explore/controls.jsx:155
 msgid " source code of Superset's sandboxed parser"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:173
+#: superset/assets/src/explore/controls.jsx:177
 msgid "This functionality is disabled in your environment for security reasons."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:197 superset/views/core.py:468
+#: superset/assets/src/explore/controls.jsx:191
+#: superset/connectors/druid/views.py:52 superset/views/core.py:408
+#: superset/views/core.py:432 superset/views/core.py:465
+msgid "Datasource"
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:201 superset/views/core.py:473
 msgid "Visualization Type"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:199
+#: superset/assets/src/explore/controls.jsx:203
 msgid "The type of visualization to display"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:205
+#: superset/assets/src/explore/controls.jsx:210
 msgid "Percentage Metrics"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:207
+#: superset/assets/src/explore/controls.jsx:212
 msgid "Metrics for which percentage of total are to be displayed"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:212
+#: superset/assets/src/explore/controls.jsx:217
 msgid "Y Axis Bounds"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:215
+#: superset/assets/src/explore/controls.jsx:220
 msgid ""
 "Bounds for the Y axis. When left empty, the bounds are dynamically "
 "defined based on the min/max of the data. Note that this feature will "
 "only expand the axis range. It won't narrow the data's extent."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:224
+#: superset/assets/src/explore/controls.jsx:229
 msgid "Ordering"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:232
+#: superset/assets/src/explore/controls.jsx:237
 msgid "Fixed Color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:233
+#: superset/assets/src/explore/controls.jsx:238
 msgid "Use this to define a static color for all circles"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:240
+#: superset/assets/src/explore/controls.jsx:245
 msgid "Legend Position"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:241
+#: superset/assets/src/explore/controls.jsx:246
 msgid "Choose the position of the legend"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:255
+#: superset/assets/src/explore/controls.jsx:260
 msgid "Fill Color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:256
-#: superset/assets/src/explore/controls.jsx:264
+#: superset/assets/src/explore/controls.jsx:261
+#: superset/assets/src/explore/controls.jsx:269
 msgid ""
 " Set the opacity to 0 if you do not want to override the color specified "
 "in the GeoJSON"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:263
+#: superset/assets/src/explore/controls.jsx:268
 msgid "Stroke Color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:272
+#: superset/assets/src/explore/controls.jsx:277
 msgid "Right Axis Metric"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:274
+#: superset/assets/src/explore/controls.jsx:279
 msgid "Choose a metric for right axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:279
+#: superset/assets/src/explore/controls.jsx:284
 msgid "Stacked Style"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:292
+#: superset/assets/src/explore/controls.jsx:297
 msgid "Sort X Axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:300
+#: superset/assets/src/explore/controls.jsx:305
 msgid "Sort Y Axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:308
+#: superset/assets/src/explore/controls.jsx:313
 msgid "Linear Color Scheme"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:333
+#: superset/assets/src/explore/controls.jsx:338
 msgid "Normalize Across"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:340
+#: superset/assets/src/explore/controls.jsx:345
 msgid ""
 "Color will be rendered based on a ratio of the cell against the sum of "
 "across this criteria"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:347
+#: superset/assets/src/explore/controls.jsx:352
 msgid "Horizon Color Scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:354
+#: superset/assets/src/explore/controls.jsx:359
 msgid "Defines how the color are attributed."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:359
+#: superset/assets/src/explore/controls.jsx:364
 msgid "Rendering"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:366
+#: superset/assets/src/explore/controls.jsx:371
 msgid ""
 "image-rendering CSS attribute of the canvas object that defines how the "
 "browser scales up the image"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:372
+#: superset/assets/src/explore/controls.jsx:377
 msgid "XScale Interval"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:377
+#: superset/assets/src/explore/controls.jsx:382
 msgid "Number of steps to take between ticks when displaying the X scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:383
+#: superset/assets/src/explore/controls.jsx:388
 msgid "YScale Interval"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:388
+#: superset/assets/src/explore/controls.jsx:393
 msgid "Number of steps to take between ticks when displaying the Y scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:394
+#: superset/assets/src/explore/controls.jsx:399
 msgid "Include Time"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:395
+#: superset/assets/src/explore/controls.jsx:400
 msgid "Whether to include the time granularity as defined in the time section"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:401
+#: superset/assets/src/explore/controls.jsx:406
 msgid "Auto Zoom"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:404
+#: superset/assets/src/explore/controls.jsx:409
 msgid "When checked, the map will zoom to your data after each query"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:409
+#: superset/assets/src/explore/controls.jsx:414
 msgid "Show percentage"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:411
+#: superset/assets/src/explore/controls.jsx:416
 msgid "Whether to include the percentage in the tooltip"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:417
+#: superset/assets/src/explore/controls.jsx:422
 msgid "Stacked Bars"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:425
+#: superset/assets/src/explore/controls.jsx:430
 msgid "Show totals"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:428
+#: superset/assets/src/explore/controls.jsx:433
 msgid "Display total row/column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:433
+#: superset/assets/src/explore/controls.jsx:438
 msgid "Show Markers"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:436
+#: superset/assets/src/explore/controls.jsx:441
 msgid "Show data points as circle markers on the lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:441
+#: superset/assets/src/explore/controls.jsx:446
 msgid "Bar Values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:444
+#: superset/assets/src/explore/controls.jsx:449
 msgid "Show the value on top of the bar"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:449
+#: superset/assets/src/explore/controls.jsx:454
 msgid "Sort Bars"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:452
+#: superset/assets/src/explore/controls.jsx:457
 msgid "Sort bars by x labels."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:457
+#: superset/assets/src/explore/controls.jsx:462
 msgid "Combine Metrics"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:459
+#: superset/assets/src/explore/controls.jsx:464
 msgid ""
 "Display metrics side by side within each column, as opposed to each "
 "column being displayed side by side for each metric."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:465
+#: superset/assets/src/explore/controls.jsx:470
 msgid "Extra Controls"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:468
+#: superset/assets/src/explore/controls.jsx:473
 msgid ""
 "Whether to show extra controls or not. Extra controls include things like"
 " making mulitBar charts stacked or side by side."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:475
+#: superset/assets/src/explore/controls.jsx:480
 msgid "Reduce X ticks"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:478
+#: superset/assets/src/explore/controls.jsx:483
 msgid ""
 "Reduces the number of X axis ticks to be rendered. If true, the x axis "
 "wont overflow and labels may be missing. If false, a minimum width will "
@@ -1699,45 +1723,45 @@ msgid ""
 "scroll."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:487
+#: superset/assets/src/explore/controls.jsx:492
 msgid "Include Series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:490
+#: superset/assets/src/explore/controls.jsx:495
 msgid "Include series name as an axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:495
+#: superset/assets/src/explore/controls.jsx:500
 msgid "Color Metric"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:497
+#: superset/assets/src/explore/controls.jsx:502
 msgid "A metric to use for color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:501
+#: superset/assets/src/explore/controls.jsx:506
 msgid "Country Name"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:521
+#: superset/assets/src/explore/controls.jsx:527
 msgid "The name of country that Superset should display"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:525
+#: superset/assets/src/explore/controls.jsx:531
 msgid "Country Field Type"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:533
+#: superset/assets/src/explore/controls.jsx:539
 msgid ""
 "The country code standard that Superset should expect to find in the "
 "[country] column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:539
+#: superset/assets/src/explore/controls.jsx:545
 msgid "Frequency"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:551
+#: superset/assets/src/explore/controls.jsx:557
 msgid ""
 "The periodicity over which to pivot time. Users can provide\n"
 "      \"Pandas\" offset alias.\n"
@@ -1745,181 +1769,181 @@ msgid ""
 "expressions."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:564
+#: superset/assets/src/explore/controls.jsx:570
 msgid "Dimension"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:565
+#: superset/assets/src/explore/controls.jsx:571
 msgid "Select a dimension"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:571
-#: superset/assets/src/explore/controls.jsx:578
+#: superset/assets/src/explore/controls.jsx:577
+#: superset/assets/src/explore/controls.jsx:584
 msgid "Columns"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:572
+#: superset/assets/src/explore/controls.jsx:578
 msgid "One or many controls to pivot as columns"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:580
-#: superset/assets/src/explore/controls.jsx:683
-#: superset/assets/src/explore/controls.jsx:693
+#: superset/assets/src/explore/controls.jsx:586
+#: superset/assets/src/explore/controls.jsx:689
+#: superset/assets/src/explore/controls.jsx:699
 msgid "Columns to display"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:591
+#: superset/assets/src/explore/controls.jsx:597
 msgid "Longitude & Latitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:593
-#: superset/assets/src/explore/controls.jsx:603
-#: superset/assets/src/explore/controls.jsx:613
+#: superset/assets/src/explore/controls.jsx:599
+#: superset/assets/src/explore/controls.jsx:609
+#: superset/assets/src/explore/controls.jsx:619
 msgid "Point to your spatial columns"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:601
+#: superset/assets/src/explore/controls.jsx:607
 msgid "Start Longitude & Latitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:611
+#: superset/assets/src/explore/controls.jsx:617
 msgid "End Longitude & Latitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:621
-#: superset/assets/src/explore/visTypes.js:1666
+#: superset/assets/src/explore/controls.jsx:627
+#: superset/assets/src/explore/visTypes.jsx:1721
 msgid "Longitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:624
+#: superset/assets/src/explore/controls.jsx:630
 msgid "Select the longitude column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:632
-#: superset/assets/src/explore/visTypes.js:1670
+#: superset/assets/src/explore/controls.jsx:638
+#: superset/assets/src/explore/visTypes.jsx:1725
 msgid "Latitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:635
+#: superset/assets/src/explore/controls.jsx:641
 msgid "Select the latitude column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:643
+#: superset/assets/src/explore/controls.jsx:649
 msgid "GeoJson Column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:645
+#: superset/assets/src/explore/controls.jsx:651
 msgid "Select the geojson column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:653
+#: superset/assets/src/explore/controls.jsx:659
 msgid "Polygon Column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:655
+#: superset/assets/src/explore/controls.jsx:661
 msgid ""
 "Select the polygon column. Each row should contain JSON.array(N) of "
 "[longitude, latitude] points"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:664
+#: superset/assets/src/explore/controls.jsx:670
 msgid "Point Radius Scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:673
+#: superset/assets/src/explore/controls.jsx:679
 msgid "Stroke Width"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:702
+#: superset/assets/src/explore/controls.jsx:708
 msgid "Origin"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:708
+#: superset/assets/src/explore/controls.jsx:714
 msgid ""
 "Defines the origin where time buckets start, accepts natural dates as in "
 "`now`, `sunday` or `1970-01-01`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:716
+#: superset/assets/src/explore/controls.jsx:722
 msgid "Bottom Margin"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:720
+#: superset/assets/src/explore/controls.jsx:726
 msgid "Bottom margin, in pixels, allowing for more room for axis labels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:725
+#: superset/assets/src/explore/controls.jsx:731
 msgid "X Tick Layout"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:730
+#: superset/assets/src/explore/controls.jsx:736
 msgid "The way the ticks are laid out on the X axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:737
+#: superset/assets/src/explore/controls.jsx:743
 msgid "Left Margin"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:741
+#: superset/assets/src/explore/controls.jsx:747
 msgid "Left margin, in pixels, allowing for more room for axis labels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:747
+#: superset/assets/src/explore/controls.jsx:753
 msgid "Time Granularity"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:765
+#: superset/assets/src/explore/controls.jsx:773
 msgid ""
 "The time granularity for the visualization. Note that you can type and "
 "use simple natural language as in `10 seconds`, `1 day` or `56 weeks`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:772
+#: superset/assets/src/explore/controls.jsx:780
 msgid "Domain"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:775
+#: superset/assets/src/explore/controls.jsx:783
 msgid "The time unit used for the grouping of blocks"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:780
+#: superset/assets/src/explore/controls.jsx:788
 msgid "Subdomain"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:783
+#: superset/assets/src/explore/controls.jsx:791
 msgid ""
 "The time unit for each block. Should be a smaller unit than "
 "domain_granularity. Should be larger or equal to Time Grain"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:790
+#: superset/assets/src/explore/controls.jsx:798
 msgid "Link Length"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:793
+#: superset/assets/src/explore/controls.jsx:801
 msgid "Link length in the force layout"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:799
+#: superset/assets/src/explore/controls.jsx:807
 msgid "Charge"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:813
+#: superset/assets/src/explore/controls.jsx:821
 msgid "Charge in the force layout"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:819
+#: superset/assets/src/explore/controls.jsx:827
 msgid ""
 "The time column for the visualization. Note that you can define arbitrary"
 " expression that return a DATETIME column in the table. Also note that "
 "the filter below is applied against this column or expression"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:845
+#: superset/assets/src/explore/controls.jsx:853
 msgid "Time Grain"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:847
+#: superset/assets/src/explore/controls.jsx:855
 msgid ""
 "The time granularity for the visualization. This applies a date "
 "transformation to alter your time column and defines a new time "
@@ -1927,80 +1951,75 @@ msgid ""
 "in the Superset source code."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:860
-msgid "Resample Rule"
+#: superset/assets/src/explore/controls.jsx:868
+msgid "Rule"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:863
+#: superset/assets/src/explore/controls.jsx:871
 msgid "Pandas resample rule"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:869
-msgid "Resample How"
+#: superset/assets/src/explore/controls.jsx:877
+msgid "How"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:872
+#: superset/assets/src/explore/controls.jsx:880
 msgid "Pandas resample how"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:878
-msgid "Resample Fill Method"
+#: superset/assets/src/explore/controls.jsx:886
+msgid "Fill Method"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:881
+#: superset/assets/src/explore/controls.jsx:889
 msgid "Pandas resample fill method"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:887
-#: superset/assets/src/visualizations/filter_box.jsx:114
-msgid "Since"
+#: superset/assets/src/explore/controls.jsx:895
+#: superset/assets/src/visualizations/filter_box.jsx:112
+msgid "Time range"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:888
-msgid "7 days ago"
+#: superset/assets/src/explore/controls.jsx:896
+msgid "Last week"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:894
-#: superset/assets/src/visualizations/filter_box.jsx:123
-msgid "Until"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:901
+#: superset/assets/src/explore/controls.jsx:902
 msgid "Max Bubble Size"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:909
+#: superset/assets/src/explore/controls.jsx:910
 msgid "Whisker/outlier options"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:911
+#: superset/assets/src/explore/controls.jsx:912
 msgid "Determines how whiskers and outliers are calculated."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:922
+#: superset/assets/src/explore/controls.jsx:923
 msgid "Ratio"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:926
+#: superset/assets/src/explore/controls.jsx:927
 msgid "Target aspect ratio for treemap tiles."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:932
-#: superset/assets/src/explore/visTypes.js:1219
-#: superset/assets/src/explore/visTypes.js:1246
-#: superset/assets/src/explore/visTypes.js:1409
+#: superset/assets/src/explore/controls.jsx:933
+#: superset/assets/src/explore/visTypes.jsx:1259
+#: superset/assets/src/explore/visTypes.jsx:1286
+#: superset/assets/src/explore/visTypes.jsx:1457
 msgid "Number format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:942
+#: superset/assets/src/explore/controls.jsx:943
 msgid "Row limit"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:951
+#: superset/assets/src/explore/controls.jsx:952
 msgid "Series limit"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:954
+#: superset/assets/src/explore/controls.jsx:955
 msgid ""
 "Limits the number of time series that get displayed. A sub query (or an "
 "extra phase where sub queries are not supported) is applied to limit the "
@@ -2008,95 +2027,95 @@ msgid ""
 "useful when grouping by high cardinality dimension(s)."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:963
+#: superset/assets/src/explore/controls.jsx:964
 msgid "Sort By"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:965
+#: superset/assets/src/explore/controls.jsx:966
 msgid "Metric used to define the top series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:973
+#: superset/assets/src/explore/controls.jsx:976
 msgid "Sort Descending"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:975
+#: superset/assets/src/explore/controls.jsx:978
 msgid "Whether to sort descending or ascending"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:980
+#: superset/assets/src/explore/controls.jsx:983
 msgid "Rolling"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:983
+#: superset/assets/src/explore/controls.jsx:986
 msgid ""
 "Defines a rolling window function to apply, works along with the "
 "[Periods] text box"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:989
+#: superset/assets/src/explore/controls.jsx:992
 msgid "Multiplier"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:993
+#: superset/assets/src/explore/controls.jsx:996
 msgid "Factor to multiply the metric by"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:998
+#: superset/assets/src/explore/controls.jsx:1001
 msgid "Periods"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1000
+#: superset/assets/src/explore/controls.jsx:1003
 msgid ""
 "Defines the size of the rolling window function, relative to the time "
 "granularity selected"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1010
+#: superset/assets/src/explore/controls.jsx:1013
 msgid "Cell Size"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1011
+#: superset/assets/src/explore/controls.jsx:1014
 msgid "The size of the square cell, in pixels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1020
+#: superset/assets/src/explore/controls.jsx:1023
 msgid "Cell Padding"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1021
+#: superset/assets/src/explore/controls.jsx:1024
 msgid "The distance between cells, in pixels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1030
+#: superset/assets/src/explore/controls.jsx:1033
 msgid "Cell Radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1031
+#: superset/assets/src/explore/controls.jsx:1034
 msgid "The pixel radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1040
+#: superset/assets/src/explore/controls.jsx:1043
 msgid "Color Steps"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1041
+#: superset/assets/src/explore/controls.jsx:1044
 msgid "The number color \"steps\""
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1046
+#: superset/assets/src/explore/controls.jsx:1049
 msgid "Grid Size"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1050
+#: superset/assets/src/explore/controls.jsx:1053
 msgid "Defines the grid size in pixels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1055
+#: superset/assets/src/explore/controls.jsx:1058
 msgid "Min Periods"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1057
+#: superset/assets/src/explore/controls.jsx:1060
 msgid ""
 "The minimum number of rolling periods required to show a value. For "
 "instance if you do a cumulative sum on 7 days you may want your \"Min "
@@ -2105,926 +2124,915 @@ msgid ""
 "periods"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1066
-#: superset/assets/src/explore/visTypes.js:147
+#: superset/assets/src/explore/controls.jsx:1069
+#: superset/assets/src/explore/visTypes.jsx:130
 msgid "Series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1068
+#: superset/assets/src/explore/controls.jsx:1071
 msgid ""
 "Defines the grouping of entities. Each series is shown as a specific "
 "color on the chart and has a legend toggle"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1078
+#: superset/assets/src/explore/controls.jsx:1081
 msgid "Entity"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1081
+#: superset/assets/src/explore/controls.jsx:1084
 msgid "This defines the element to be plotted on the chart"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1089
-#: superset/assets/src/explore/visTypes.js:137
-#: superset/assets/src/explore/visTypes.js:200
-#: superset/assets/src/explore/visTypes.js:244
-#: superset/assets/src/explore/visTypes.js:325
-#: superset/assets/src/explore/visTypes.js:411
-#: superset/assets/src/explore/visTypes.js:452
-#: superset/assets/src/explore/visTypes.js:850
-#: superset/assets/src/explore/visTypes.js:1145
+#: superset/assets/src/explore/controls.jsx:1092
+#: superset/assets/src/explore/visTypes.jsx:120
+#: superset/assets/src/explore/visTypes.jsx:188
+#: superset/assets/src/explore/visTypes.jsx:232
+#: superset/assets/src/explore/visTypes.jsx:320
+#: superset/assets/src/explore/visTypes.jsx:413
+#: superset/assets/src/explore/visTypes.jsx:454
+#: superset/assets/src/explore/visTypes.jsx:868
+#: superset/assets/src/explore/visTypes.jsx:1183
 msgid "X Axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1090
+#: superset/assets/src/explore/controls.jsx:1093
 msgid "Metric assigned to the [X] axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1096
-#: superset/assets/src/explore/visTypes.js:209
-#: superset/assets/src/explore/visTypes.js:333
-#: superset/assets/src/explore/visTypes.js:420
-#: superset/assets/src/explore/visTypes.js:461
-#: superset/assets/src/explore/visTypes.js:859
-#: superset/assets/src/explore/visTypes.js:1154
+#: superset/assets/src/explore/controls.jsx:1099
+#: superset/assets/src/explore/visTypes.jsx:197
+#: superset/assets/src/explore/visTypes.jsx:328
+#: superset/assets/src/explore/visTypes.jsx:422
+#: superset/assets/src/explore/visTypes.jsx:463
+#: superset/assets/src/explore/visTypes.jsx:877
+#: superset/assets/src/explore/visTypes.jsx:1192
 msgid "Y Axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1098
+#: superset/assets/src/explore/controls.jsx:1101
 msgid "Metric assigned to the [Y] axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1103
+#: superset/assets/src/explore/controls.jsx:1106
 msgid "Bubble Size"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1109
+#: superset/assets/src/explore/controls.jsx:1112
 msgid "URL"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1110
+#: superset/assets/src/explore/controls.jsx:1113
 msgid ""
 "The URL, this control is templated, so you can integrate {{ width }} "
 "and/or {{ height }} in your URL string."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1117
+#: superset/assets/src/explore/controls.jsx:1120
 msgid "X Axis Label"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1124
+#: superset/assets/src/explore/controls.jsx:1127
 msgid "Y Axis Label"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1131
-msgid "Custom WHERE clause"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1137
-msgid ""
-"The text in this box gets included in your query's WHERE clause, as an "
-"AND to other criteria. You can include complex expression, parenthesis "
-"and anything else supported by the backend it is directed towards."
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1145
-msgid "Custom HAVING clause"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1151
-msgid ""
-"The text in this box gets included in your query's HAVING clause, as an "
-"AND to other criteria. You can include complex expression, parenthesis "
-"and anything else supported by the backend it is directed towards."
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1159
+#: superset/assets/src/explore/controls.jsx:1134
 msgid "Comparison Period Lag"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1161
+#: superset/assets/src/explore/controls.jsx:1136
 msgid "Based on granularity, number of time periods to compare against"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1166
+#: superset/assets/src/explore/controls.jsx:1141
 msgid "Comparison suffix"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1167
+#: superset/assets/src/explore/controls.jsx:1142
 msgid "Suffix to apply after the percentage display"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1173
+#: superset/assets/src/explore/controls.jsx:1148
 msgid "Table Timestamp Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1179
+#: superset/assets/src/explore/controls.jsx:1154
 msgid "Timestamp Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1185
+#: superset/assets/src/explore/controls.jsx:1160
 msgid "Series Height"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1188
+#: superset/assets/src/explore/controls.jsx:1163
 msgid "Pixel height of each series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1195
+#: superset/assets/src/explore/controls.jsx:1170
 msgid "Page Length"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1198
+#: superset/assets/src/explore/controls.jsx:1173
 msgid "Rows per page, 0 means no pagination"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1204
-#: superset/assets/src/explore/controls.jsx:1214
+#: superset/assets/src/explore/controls.jsx:1179
+#: superset/assets/src/explore/controls.jsx:1189
 msgid "X Axis Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1224
+#: superset/assets/src/explore/controls.jsx:1199
 msgid "Y Axis Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1236
-msgid "When `Period Ratio` is set, the Y Axis Format is forced to `.1%`"
+#: superset/assets/src/explore/controls.jsx:1211
+msgid ""
+"When `Calculation type` is set to \"Percentage change\", the Y Axis "
+"Format is forced to `.1%`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1245
+#: superset/assets/src/explore/controls.jsx:1221
 msgid "Right Axis Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1254
+#: superset/assets/src/explore/controls.jsx:1230
 msgid "Date Time Format"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1263
+#: superset/assets/src/explore/controls.jsx:1239
 msgid "Markup Type"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1268
+#: superset/assets/src/explore/controls.jsx:1244
 msgid "Pick your favorite markup language"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1273
+#: superset/assets/src/explore/controls.jsx:1249
 msgid "Rotation"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1276
+#: superset/assets/src/explore/controls.jsx:1252
 msgid "Rotation to apply to words in the cloud"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1281
+#: superset/assets/src/explore/controls.jsx:1257
 msgid "Line Style"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1286
+#: superset/assets/src/explore/controls.jsx:1262
 msgid "Line interpolation as defined by d3.js"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1291
+#: superset/assets/src/explore/controls.jsx:1267
 msgid "Label Type"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1301
+#: superset/assets/src/explore/controls.jsx:1277
 msgid "What should be shown on the label?"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1306
-#: superset/assets/src/explore/visTypes.js:955
-#: superset/assets/src/explore/visTypes.js:995
+#: superset/assets/src/explore/controls.jsx:1282
+#: superset/assets/src/explore/visTypes.jsx:982
+#: superset/assets/src/explore/visTypes.jsx:1024
 msgid "Code"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1307
+#: superset/assets/src/explore/controls.jsx:1283
 msgid "Put your code here"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1316
+#: superset/assets/src/explore/controls.jsx:1292
 msgid "Aggregation function"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1328
+#: superset/assets/src/explore/controls.jsx:1304
 msgid ""
 "Aggregate function to apply when pivoting and computing the total rows "
 "and columns"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1335
+#: superset/assets/src/explore/controls.jsx:1311
 msgid "Font Size From"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1337
+#: superset/assets/src/explore/controls.jsx:1313
 msgid "Font size for the smallest value in the list"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1343
+#: superset/assets/src/explore/controls.jsx:1319
 msgid "Font Size To"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1345
+#: superset/assets/src/explore/controls.jsx:1321
 msgid "Font size for the biggest value in the list"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1350
+#: superset/assets/src/explore/controls.jsx:1326
 msgid "Instant Filtering"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1361
+#: superset/assets/src/explore/controls.jsx:1337
 msgid "Extruded"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1369
+#: superset/assets/src/explore/controls.jsx:1345
 msgid "Show Range Filter"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1378
+#: superset/assets/src/explore/controls.jsx:1354
 msgid "Whether to display the time range interactive selector"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1383
+#: superset/assets/src/explore/controls.jsx:1359
 msgid "Date Filter"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1385
+#: superset/assets/src/explore/controls.jsx:1361
 msgid "Whether to include a time filter"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1390
+#: superset/assets/src/explore/controls.jsx:1366
 msgid "Show SQL Granularity Dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1392
+#: superset/assets/src/explore/controls.jsx:1368
 msgid "Check to include SQL Granularity dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1397
+#: superset/assets/src/explore/controls.jsx:1373
 msgid "Show SQL Time Column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1399
+#: superset/assets/src/explore/controls.jsx:1375
 msgid "Check to include Time Column dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1404
+#: superset/assets/src/explore/controls.jsx:1380
 msgid "Show Druid Granularity Dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1406
+#: superset/assets/src/explore/controls.jsx:1382
 msgid "Check to include Druid Granularity dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1411
+#: superset/assets/src/explore/controls.jsx:1387
 msgid "Show Druid Time Origin"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1413
+#: superset/assets/src/explore/controls.jsx:1389
 msgid "Check to include Time Origin dropdown"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1418
+#: superset/assets/src/explore/controls.jsx:1394
 msgid "Data Table"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1420
+#: superset/assets/src/explore/controls.jsx:1396
 msgid "Whether to display the interactive data table"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1425
+#: superset/assets/src/explore/controls.jsx:1401
 msgid "Search Box"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1428
+#: superset/assets/src/explore/controls.jsx:1404
 msgid "Whether to include a client side search box"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1433
+#: superset/assets/src/explore/controls.jsx:1409
 msgid "Table Filter"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1436
+#: superset/assets/src/explore/controls.jsx:1412
 msgid "Whether to apply filter when table cell is clicked"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1441
+#: superset/assets/src/explore/controls.jsx:1417
 msgid "Align +/-"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1444
+#: superset/assets/src/explore/controls.jsx:1420
 msgid "Whether to align the background chart for +/- values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1449
+#: superset/assets/src/explore/controls.jsx:1425
 msgid "Color +/-"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1452
+#: superset/assets/src/explore/controls.jsx:1428
 msgid "Whether to color +/- values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1457
+#: superset/assets/src/explore/controls.jsx:1433
 msgid "Show Bubbles"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1460
+#: superset/assets/src/explore/controls.jsx:1436
 msgid "Whether to display bubbles on top of countries"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1465
+#: superset/assets/src/explore/controls.jsx:1441
 msgid "Legend"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1468
+#: superset/assets/src/explore/controls.jsx:1444
 msgid "Whether to display the legend (toggles)"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1473
+#: superset/assets/src/explore/controls.jsx:1449
+msgid "Show Labels"
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1452
+msgid ""
+"Whether to display the labels. Note that the label only displays when the"
+" the 5% threshold."
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1459
 msgid "Show Values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1476
+#: superset/assets/src/explore/controls.jsx:1462
 msgid "Whether to display the numerical values within the cells"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1481
+#: superset/assets/src/explore/controls.jsx:1467
 msgid "Show Metric Names"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1484
+#: superset/assets/src/explore/controls.jsx:1470
 msgid "Whether to display the metric name as a title"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1489
+#: superset/assets/src/explore/controls.jsx:1475
+msgid "Show Trend Line"
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1478
+msgid "Whether to display the trend line"
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1483
 msgid "X bounds"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1492
+#: superset/assets/src/explore/controls.jsx:1486
 msgid "Whether to display the min and max values of the X axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1497
+#: superset/assets/src/explore/controls.jsx:1491
 msgid "Y bounds"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1500
+#: superset/assets/src/explore/controls.jsx:1494
 msgid "Whether to display the min and max values of the Y axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1505
+#: superset/assets/src/explore/controls.jsx:1499
 msgid "Rich Tooltip"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1508
+#: superset/assets/src/explore/controls.jsx:1502
 msgid "The rich tooltip shows a list of all series for that point in time"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1514
+#: superset/assets/src/explore/controls.jsx:1508
 msgid "Y Log Scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1517
+#: superset/assets/src/explore/controls.jsx:1511
 msgid "Use a log scale for the Y axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1522
+#: superset/assets/src/explore/controls.jsx:1516
 msgid "X Log Scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1525
+#: superset/assets/src/explore/controls.jsx:1519
 msgid "Use a log scale for the X axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1530
+#: superset/assets/src/explore/controls.jsx:1524
 msgid "Log Scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1533
+#: superset/assets/src/explore/controls.jsx:1527
 msgid "Use a log scale"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1538
+#: superset/assets/src/explore/controls.jsx:1532
 msgid "Donut"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1541
+#: superset/assets/src/explore/controls.jsx:1535
 msgid "Do you want a donut or a pie?"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1546
+#: superset/assets/src/explore/controls.jsx:1540
 msgid "Put labels outside"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1549
+#: superset/assets/src/explore/controls.jsx:1543
 msgid "Put the labels outside the pie?"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1554
+#: superset/assets/src/explore/controls.jsx:1548
 msgid "Contribution"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1556
+#: superset/assets/src/explore/controls.jsx:1550
 msgid "Compute the contribution to the total"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1561
-msgid "Period Ratio"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1564
-msgid ""
-"[integer] Number of period to compare against, this is relative to the "
-"granularity selected"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1570
-msgid "Period Ratio Type"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1573
-msgid ""
-"`factor` means (new/previous), `growth` is ((new/previous) - 1), `value` "
-"is (new-previous)"
-msgstr ""
-
-#: superset/assets/src/explore/controls.jsx:1581
+#: superset/assets/src/explore/controls.jsx:1557
 msgid "Time Shift"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1590
+#: superset/assets/src/explore/controls.jsx:1565
 msgid ""
 "Overlay one or more timeseries from a relative time period. Expects "
 "relative time deltas in natural language (example:  24 hours, 7 days, 56 "
 "weeks, 365 days)"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1598
+#: superset/assets/src/explore/controls.jsx:1573
+msgid "Calculation type"
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1581
+msgid ""
+"How to display time shifts: as individual lines; as the absolute "
+"difference between the main time series and each time shift; as the "
+"percentage change; or as the ratio between series and time shifts."
+msgstr ""
+
+#: superset/assets/src/explore/controls.jsx:1588
 msgid "Subheader"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1599
+#: superset/assets/src/explore/controls.jsx:1589
 msgid "Description text that shows up below your Big Number"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1605
+#: superset/assets/src/explore/controls.jsx:1595
 msgid "label"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1607
+#: superset/assets/src/explore/controls.jsx:1597
 msgid ""
 "`count` is COUNT(*) if a group by is used. Numerical columns will be "
 "aggregated with the aggregator. Non-numerical columns will be used to "
 "label points. Leave empty to get a count of points in each cluster."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1618
+#: superset/assets/src/explore/controls.jsx:1608
 msgid "Map Style"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1630
+#: superset/assets/src/explore/controls.jsx:1620
 msgid "Base layer map style"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1636
+#: superset/assets/src/explore/controls.jsx:1626
 msgid "Clustering Radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1649
+#: superset/assets/src/explore/controls.jsx:1639
 msgid ""
 "The radius (in pixels) the algorithm uses to define a cluster. Choose 0 "
 "to turn off clustering, but beware that a large number of points (>1000) "
 "will cause lag."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1656
-#: superset/assets/src/explore/visTypes.js:798
+#: superset/assets/src/explore/controls.jsx:1646
+#: superset/assets/src/explore/visTypes.jsx:816
 msgid "Point Size"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1658
+#: superset/assets/src/explore/controls.jsx:1648
 msgid "Fixed point radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1666
+#: superset/assets/src/explore/controls.jsx:1656
 msgid "Point Radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1668
+#: superset/assets/src/explore/controls.jsx:1658
 msgid ""
 "The radius of individual points (ones that are not in a cluster). Either "
 "a numerical column or `Auto`, which scales the point based on the largest"
 " cluster"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1678
+#: superset/assets/src/explore/controls.jsx:1668
 msgid "Point Radius Unit"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1681
-#: superset/assets/src/explore/controls.jsx:1697
+#: superset/assets/src/explore/controls.jsx:1671
+#: superset/assets/src/explore/controls.jsx:1687
 msgid "The unit of measure for the specified point radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1686
+#: superset/assets/src/explore/controls.jsx:1676
 msgid "Point Unit"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1702
+#: superset/assets/src/explore/controls.jsx:1692
 msgid "Opacity"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1705
+#: superset/assets/src/explore/controls.jsx:1695
 msgid "Opacity of all clusters, points, and labels. Between 0 and 1."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1711
-#: superset/assets/src/explore/visTypes.js:1657
+#: superset/assets/src/explore/controls.jsx:1701
+#: superset/assets/src/explore/visTypes.jsx:1712
 msgid "Viewport"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1713
+#: superset/assets/src/explore/controls.jsx:1703
 msgid "Parameters related to the view and perspective on the map"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1722
+#: superset/assets/src/explore/controls.jsx:1712
 msgid "Zoom"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1725
+#: superset/assets/src/explore/controls.jsx:1715
 msgid "Zoom level of the map"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1731
+#: superset/assets/src/explore/controls.jsx:1721
 msgid "Default latitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1734
+#: superset/assets/src/explore/controls.jsx:1724
 msgid "Latitude of default viewport"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1740
+#: superset/assets/src/explore/controls.jsx:1730
 msgid "Default longitude"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1743
+#: superset/assets/src/explore/controls.jsx:1733
 msgid "Longitude of default viewport"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1749
+#: superset/assets/src/explore/controls.jsx:1739
 msgid "Live render"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1751
+#: superset/assets/src/explore/controls.jsx:1741
 msgid "Points and clusters will update as viewport is being changed"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1757
+#: superset/assets/src/explore/controls.jsx:1747
 msgid "RGB Color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1767
+#: superset/assets/src/explore/controls.jsx:1757
 msgid "The color for points and clusters in RGB"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1772
+#: superset/assets/src/explore/controls.jsx:1762
 msgid "Color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1774
+#: superset/assets/src/explore/controls.jsx:1764
 msgid "Pick a color"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1779
+#: superset/assets/src/explore/controls.jsx:1769
 msgid "Ranges"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1781
+#: superset/assets/src/explore/controls.jsx:1771
 msgid "Ranges to highlight with shading"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1786
+#: superset/assets/src/explore/controls.jsx:1776
 msgid "Range labels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1788
+#: superset/assets/src/explore/controls.jsx:1778
 msgid "Labels for the ranges"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1793
+#: superset/assets/src/explore/controls.jsx:1783
 msgid "Markers"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1795
+#: superset/assets/src/explore/controls.jsx:1785
 msgid "List of values to mark with triangles"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1800
+#: superset/assets/src/explore/controls.jsx:1790
 msgid "Marker labels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1802
+#: superset/assets/src/explore/controls.jsx:1792
 msgid "Labels for the markers"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1807
+#: superset/assets/src/explore/controls.jsx:1797
 msgid "Marker lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1809
+#: superset/assets/src/explore/controls.jsx:1799
 msgid "List of values to mark with lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1814
+#: superset/assets/src/explore/controls.jsx:1804
 msgid "Marker line labels"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1816
+#: superset/assets/src/explore/controls.jsx:1806
 msgid "Labels for the marker lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1865
+#: superset/assets/src/explore/controls.jsx:1833
 msgid "Chart ID"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1867
+#: superset/assets/src/explore/controls.jsx:1835
 msgid "The id of the active chart"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1872
+#: superset/assets/src/explore/controls.jsx:1840
 msgid "Cache Timeout (seconds)"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1874
+#: superset/assets/src/explore/controls.jsx:1842
 msgid "The number of seconds before expiring the cache"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1879
+#: superset/assets/src/explore/controls.jsx:1847
 msgid "Order by entity id"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1880
+#: superset/assets/src/explore/controls.jsx:1848
 msgid ""
 "Important! Select this if the table is not already sorted by entity id, "
 "else there is no guarantee that all events for each entity are returned."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1888
+#: superset/assets/src/explore/controls.jsx:1856
 msgid "Minimum leaf node event count"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1891
+#: superset/assets/src/explore/controls.jsx:1859
 msgid ""
 "Leaf nodes that represent fewer than this number of events will be "
 "initially hidden in the visualization"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1897
-#: superset/assets/src/explore/visTypes.js:29
+#: superset/assets/src/explore/controls.jsx:1865
+#: superset/assets/src/explore/visTypes.jsx:30
 msgid "Color Scheme"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1901
+#: superset/assets/src/explore/controls.jsx:1869
 msgid "The color scheme for rendering chart"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1907
+#: superset/assets/src/explore/controls.jsx:1875
 msgid "Significance Level"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1909
+#: superset/assets/src/explore/controls.jsx:1877
 msgid "Threshold alpha level for determining significance"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1914
+#: superset/assets/src/explore/controls.jsx:1882
 msgid "p-value precision"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1916
+#: superset/assets/src/explore/controls.jsx:1884
 msgid "Number of decimal places with which to display p-values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1921
+#: superset/assets/src/explore/controls.jsx:1889
 msgid "Lift percent precision"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1923
+#: superset/assets/src/explore/controls.jsx:1891
 msgid "Number of decimal places with which to display lift values"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1928
+#: superset/assets/src/explore/controls.jsx:1896
 msgid "Time Series Columns"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1935
+#: superset/assets/src/explore/controls.jsx:1903
 msgid "Use Area Proportions"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1936
+#: superset/assets/src/explore/controls.jsx:1904
 msgid ""
 "Check if the Rose Chart should use segment area instead of segment radius"
 " for proportioning"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1946
-#: superset/assets/src/explore/visTypes.js:905
-#: superset/assets/src/explore/visTypes.js:1025
-#: superset/assets/src/explore/visTypes.js:1373
-#: superset/assets/src/explore/visTypes.js:1438
-#: superset/assets/src/explore/visTypes.js:1529
-#: superset/assets/src/explore/visTypes.js:1551
+#: superset/assets/src/explore/controls.jsx:1914
+#: superset/assets/src/explore/visTypes.jsx:930
+#: superset/assets/src/explore/visTypes.jsx:1056
+#: superset/assets/src/explore/visTypes.jsx:1418
+#: superset/assets/src/explore/visTypes.jsx:1487
+#: superset/assets/src/explore/visTypes.jsx:1580
+#: superset/assets/src/explore/visTypes.jsx:1603
 msgid "Options"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1952
+#: superset/assets/src/explore/controls.jsx:1920
 msgid "Not Time Series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1954
+#: superset/assets/src/explore/controls.jsx:1922
 msgid "Ignore time"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1957
+#: superset/assets/src/explore/controls.jsx:1925
 msgid "Time Series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1959
+#: superset/assets/src/explore/controls.jsx:1927
 msgid "Standard time series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1962
+#: superset/assets/src/explore/controls.jsx:1930
 msgid "Aggregate Mean"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1964
+#: superset/assets/src/explore/controls.jsx:1932
 msgid "Mean of values over specified period"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1967
+#: superset/assets/src/explore/controls.jsx:1935
 msgid "Aggregate Sum"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1969
+#: superset/assets/src/explore/controls.jsx:1937
 msgid "Sum of values over specified period"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1972
+#: superset/assets/src/explore/controls.jsx:1940
 msgid "Difference"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1974
+#: superset/assets/src/explore/controls.jsx:1942
 msgid "Metric change in value from `since` to `until`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1977
+#: superset/assets/src/explore/controls.jsx:1945
 msgid "Percent Change"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1979
+#: superset/assets/src/explore/controls.jsx:1947
 msgid "Metric percent change in value from `since` to `until`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1982
+#: superset/assets/src/explore/controls.jsx:1950
 msgid "Factor"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1984
+#: superset/assets/src/explore/controls.jsx:1952
 msgid "Metric factor change from `since` to `until`"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1987
-#: superset/assets/src/explore/visTypes.js:71
+#: superset/assets/src/explore/controls.jsx:1955
+#: superset/assets/src/explore/visTypes.jsx:65
 msgid "Advanced Analytics"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1989
+#: superset/assets/src/explore/controls.jsx:1957
 msgid "Use the Advanced Analytics options below"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1994
+#: superset/assets/src/explore/controls.jsx:1962
 msgid "Settings for time series"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:1999
+#: superset/assets/src/explore/controls.jsx:1967
 msgid "Equal Date Sizes"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2002
+#: superset/assets/src/explore/controls.jsx:1970
 msgid "Check to force date partitions to have the same height"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2007
+#: superset/assets/src/explore/controls.jsx:1975
 msgid "Partition Limit"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2011
+#: superset/assets/src/explore/controls.jsx:1979
 msgid ""
 "The maximum number of subdivisions of each group; lower values are pruned"
 " first"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2017
+#: superset/assets/src/explore/controls.jsx:1985
 msgid "Minimum Radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2023
+#: superset/assets/src/explore/controls.jsx:1991
 msgid ""
 "Minimum radius size of the circle, in pixels. As the zoom level changes, "
 "this insures that the circle respects this minimum radius."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2029
+#: superset/assets/src/explore/controls.jsx:1997
 msgid "Maximum Radius"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2035
+#: superset/assets/src/explore/controls.jsx:2003
 msgid ""
 "Maxium radius size of the circle, in pixels. As the zoom level changes, "
 "this insures that the circle respects this maximum radius."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2041
+#: superset/assets/src/explore/controls.jsx:2009
 msgid "Partition Threshold"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2045
+#: superset/assets/src/explore/controls.jsx:2013
 msgid ""
 "Partitions whose height to parent height proportions are below this value"
 " are pruned"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2051
+#: superset/assets/src/explore/controls.jsx:2019
 msgid "Lines column"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2053
+#: superset/assets/src/explore/controls.jsx:2021
 msgid "The database columns that contains lines information"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2061
+#: superset/assets/src/explore/controls.jsx:2029
 msgid "Lines encoding"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2064
+#: superset/assets/src/explore/controls.jsx:2032
 msgid "The encoding format of the lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2073
+#: superset/assets/src/explore/controls.jsx:2041
 msgid "Line width"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2077
+#: superset/assets/src/explore/controls.jsx:2045
 msgid "The width of the lines"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2083
+#: superset/assets/src/explore/controls.jsx:2051
 msgid "Line charts"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2086
+#: superset/assets/src/explore/controls.jsx:2054
 msgid "Pick a set of line charts to layer on top of one another"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2088
-#: superset/assets/src/explore/controls.jsx:2106
-#: superset/assets/src/explore/controls.jsx:2137
+#: superset/assets/src/explore/controls.jsx:2056
+#: superset/assets/src/explore/controls.jsx:2074
+#: superset/assets/src/explore/controls.jsx:2105
 msgid "Select charts"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2089
-#: superset/assets/src/explore/controls.jsx:2107
-#: superset/assets/src/explore/controls.jsx:2138
+#: superset/assets/src/explore/controls.jsx:2057
+#: superset/assets/src/explore/controls.jsx:2075
+#: superset/assets/src/explore/controls.jsx:2106
 msgid "Error while fetching charts"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2101
+#: superset/assets/src/explore/controls.jsx:2069
 msgid "Right Axis chart(s)"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2104
+#: superset/assets/src/explore/controls.jsx:2072
 msgid "Choose one or more charts for right axis"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2118
+#: superset/assets/src/explore/controls.jsx:2086
 msgid "Prefix metric name with slice name"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2125
+#: superset/assets/src/explore/controls.jsx:2093
 msgid "Reverse Lat & Long"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2132
+#: superset/assets/src/explore/controls.jsx:2100
 msgid "deck.gl charts"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2135
+#: superset/assets/src/explore/controls.jsx:2103
 msgid "Pick a set of deck.gl charts to layer on top of one another"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2148
+#: superset/assets/src/explore/controls.jsx:2116
 msgid "Javascript data interceptor"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2149
+#: superset/assets/src/explore/controls.jsx:2117
 msgid ""
 "Define a javascript function that receives the data array used in the "
 "visualization and is expected to return a modified version of that array."
@@ -3032,63 +3040,63 @@ msgid ""
 "array."
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2155
+#: superset/assets/src/explore/controls.jsx:2123
 msgid "Javascript data mutator"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2156
+#: superset/assets/src/explore/controls.jsx:2124
 msgid ""
 "Define a function that receives intercepts the data objects and can "
 "mutate it"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2160
+#: superset/assets/src/explore/controls.jsx:2128
 msgid "Javascript tooltip generator"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2161
+#: superset/assets/src/explore/controls.jsx:2129
 msgid ""
 "Define a function that receives the input and outputs the content for a "
 "tooltip"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2165
+#: superset/assets/src/explore/controls.jsx:2133
 msgid "Javascript onClick href"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2166
+#: superset/assets/src/explore/controls.jsx:2134
 msgid "Define a function that returns a URL to navigate to when user clicks"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2171
+#: superset/assets/src/explore/controls.jsx:2139
 msgid "Extra data for JS"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2173
+#: superset/assets/src/explore/controls.jsx:2141
 msgid "List of extra columns made available in Javascript functions"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2178
+#: superset/assets/src/explore/controls.jsx:2146
 msgid "Stroked"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2180
+#: superset/assets/src/explore/controls.jsx:2148
 msgid "Whether to display the stroke"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2186
+#: superset/assets/src/explore/controls.jsx:2154
 msgid "Filled"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2188
+#: superset/assets/src/explore/controls.jsx:2156
 msgid "Whether to fill the objects"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2194
+#: superset/assets/src/explore/controls.jsx:2162
 msgid "Normalized"
 msgstr ""
 
-#: superset/assets/src/explore/controls.jsx:2196
+#: superset/assets/src/explore/controls.jsx:2164
 msgid "Whether to normalize the histogram"
 msgstr ""
 
@@ -3104,526 +3112,517 @@ msgstr ""
 msgid "cannot be empty"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:11
-#: superset/assets/src/explore/visTypes.js:35
+#: superset/assets/src/explore/visTypes.jsx:12
+#: superset/assets/src/explore/visTypes.jsx:36
 msgid "Time"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:13
-#: superset/assets/src/explore/visTypes.js:36
+#: superset/assets/src/explore/visTypes.jsx:14
+#: superset/assets/src/explore/visTypes.jsx:37
 msgid "Time related form attributes"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:20
+#: superset/assets/src/explore/visTypes.jsx:21
 msgid "Datasource & Chart Type"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:49
-msgid "This section exposes ways to include snippets of SQL in your query"
-msgstr ""
-
-#: superset/assets/src/explore/visTypes.js:52
+#: superset/assets/src/explore/visTypes.jsx:45
 msgid "Annotations and Layers"
 msgstr ""
 
-#: superset/assets/src/explore/components/DisplayQueryButton.jsx:126
-#: superset/assets/src/explore/visTypes.js:60
-#: superset/assets/src/explore/visTypes.js:114
-#: superset/assets/src/explore/visTypes.js:161
-#: superset/assets/src/explore/visTypes.js:310
-#: superset/assets/src/explore/visTypes.js:500
-#: superset/assets/src/explore/visTypes.js:538
-#: superset/assets/src/explore/visTypes.js:577
-#: superset/assets/src/explore/visTypes.js:610
-#: superset/assets/src/explore/visTypes.js:655
-#: superset/assets/src/explore/visTypes.js:694
-#: superset/assets/src/explore/visTypes.js:734
-#: superset/assets/src/explore/visTypes.js:783
-#: superset/assets/src/explore/visTypes.js:929
-#: superset/assets/src/explore/visTypes.js:969
-#: superset/assets/src/explore/visTypes.js:1017
-#: superset/assets/src/explore/visTypes.js:1039
-#: superset/assets/src/explore/visTypes.js:1068
-#: superset/assets/src/explore/visTypes.js:1105
-#: superset/assets/src/explore/visTypes.js:1127
-#: superset/assets/src/explore/visTypes.js:1178
-#: superset/assets/src/explore/visTypes.js:1201
-#: superset/assets/src/explore/visTypes.js:1228
-#: superset/assets/src/explore/visTypes.js:1255
-#: superset/assets/src/explore/visTypes.js:1297
-#: superset/assets/src/explore/visTypes.js:1336
-#: superset/assets/src/explore/visTypes.js:1364
-#: superset/assets/src/explore/visTypes.js:1391
-#: superset/assets/src/explore/visTypes.js:1430
-#: superset/assets/src/explore/visTypes.js:1464
-#: superset/assets/src/explore/visTypes.js:1501
-#: superset/assets/src/explore/visTypes.js:1541
-#: superset/assets/src/explore/visTypes.js:1563
-#: superset/assets/src/explore/visTypes.js:1624
+#: superset/assets/src/explore/components/DisplayQueryButton.jsx:141
+#: superset/assets/src/explore/visTypes.jsx:53
+#: superset/assets/src/explore/visTypes.jsx:97
+#: superset/assets/src/explore/visTypes.jsx:144
+#: superset/assets/src/explore/visTypes.jsx:255
+#: superset/assets/src/explore/visTypes.jsx:303
+#: superset/assets/src/explore/visTypes.jsx:372
+#: superset/assets/src/explore/visTypes.jsx:495
+#: superset/assets/src/explore/visTypes.jsx:509
+#: superset/assets/src/explore/visTypes.jsx:548
+#: superset/assets/src/explore/visTypes.jsx:588
+#: superset/assets/src/explore/visTypes.jsx:622
+#: superset/assets/src/explore/visTypes.jsx:669
+#: superset/assets/src/explore/visTypes.jsx:709
+#: superset/assets/src/explore/visTypes.jsx:750
+#: superset/assets/src/explore/visTypes.jsx:800
+#: superset/assets/src/explore/visTypes.jsx:923
+#: superset/assets/src/explore/visTypes.jsx:954
+#: superset/assets/src/explore/visTypes.jsx:996
+#: superset/assets/src/explore/visTypes.jsx:1046
+#: superset/assets/src/explore/visTypes.jsx:1070
+#: superset/assets/src/explore/visTypes.jsx:1100
+#: superset/assets/src/explore/visTypes.jsx:1138
+#: superset/assets/src/explore/visTypes.jsx:1162
+#: superset/assets/src/explore/visTypes.jsx:1216
+#: superset/assets/src/explore/visTypes.jsx:1240
+#: superset/assets/src/explore/visTypes.jsx:1268
+#: superset/assets/src/explore/visTypes.jsx:1295
+#: superset/assets/src/explore/visTypes.jsx:1338
+#: superset/assets/src/explore/visTypes.jsx:1379
+#: superset/assets/src/explore/visTypes.jsx:1408
+#: superset/assets/src/explore/visTypes.jsx:1436
+#: superset/assets/src/explore/visTypes.jsx:1478
+#: superset/assets/src/explore/visTypes.jsx:1513
+#: superset/assets/src/explore/visTypes.jsx:1551
+#: superset/assets/src/explore/visTypes.jsx:1592
+#: superset/assets/src/explore/visTypes.jsx:1615
+#: superset/assets/src/explore/visTypes.jsx:1678
+#: superset/assets/src/explore/visTypes.jsx:1760
 msgid "Query"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:72
+#: superset/assets/src/explore/visTypes.jsx:66
 msgid ""
 "This section contains options that allow for advanced analytical post "
 "processing of query results"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:90
-msgid "Result Filters"
-msgstr ""
-
-#: superset/assets/src/explore/visTypes.js:92
-msgid ""
-"The filters to apply after post-aggregation.Leave the value control empty"
-" to filter empty strings or nulls"
-msgstr ""
-
-#: superset/assets/src/explore/visTypes.js:126
-#: superset/assets/src/explore/visTypes.js:171
-#: superset/assets/src/explore/visTypes.js:190
-#: superset/assets/src/explore/visTypes.js:234
-#: superset/assets/src/explore/visTypes.js:317
-#: superset/assets/src/explore/visTypes.js:355
-#: superset/assets/src/explore/visTypes.js:400
-#: superset/assets/src/explore/visTypes.js:445
-#: superset/assets/src/explore/visTypes.js:840
-#: superset/assets/src/explore/visTypes.js:1047
-#: superset/assets/src/explore/visTypes.js:1076
-#: superset/assets/src/explore/visTypes.js:1113
-#: superset/assets/src/explore/visTypes.js:1137
-#: superset/assets/src/explore/visTypes.js:1185
-#: superset/assets/src/explore/visTypes.js:1209
-#: superset/assets/src/explore/visTypes.js:1236
-#: superset/assets/src/explore/visTypes.js:1264
-#: superset/assets/src/explore/visTypes.js:1306
-#: superset/assets/src/explore/visTypes.js:1345
-#: superset/assets/src/explore/visTypes.js:1399
-#: superset/assets/src/explore/visTypes.js:1611
-#: superset/assets/src/explore/visTypes.js:1760
-#: superset/assets/src/explore/visTypes.js:1785
+#: superset/assets/src/explore/visTypes.jsx:109
+#: superset/assets/src/explore/visTypes.jsx:154
+#: superset/assets/src/explore/visTypes.jsx:178
+#: superset/assets/src/explore/visTypes.jsx:222
+#: superset/assets/src/explore/visTypes.jsx:312
+#: superset/assets/src/explore/visTypes.jsx:350
+#: superset/assets/src/explore/visTypes.jsx:402
+#: superset/assets/src/explore/visTypes.jsx:447
+#: superset/assets/src/explore/visTypes.jsx:858
+#: superset/assets/src/explore/visTypes.jsx:1079
+#: superset/assets/src/explore/visTypes.jsx:1109
+#: superset/assets/src/explore/visTypes.jsx:1148
+#: superset/assets/src/explore/visTypes.jsx:1175
+#: superset/assets/src/explore/visTypes.jsx:1224
+#: superset/assets/src/explore/visTypes.jsx:1248
+#: superset/assets/src/explore/visTypes.jsx:1276
+#: superset/assets/src/explore/visTypes.jsx:1305
+#: superset/assets/src/explore/visTypes.jsx:1349
+#: superset/assets/src/explore/visTypes.jsx:1389
+#: superset/assets/src/explore/visTypes.jsx:1447
+#: superset/assets/src/explore/visTypes.jsx:1665
+#: superset/assets/src/explore/visTypes.jsx:1822
+#: superset/assets/src/explore/visTypes.jsx:1847
 msgid "Chart Options"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:150
+#: superset/assets/src/explore/visTypes.jsx:133
 msgid "Breakdowns"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:151
+#: superset/assets/src/explore/visTypes.jsx:134
 msgid "Defines how each series is broken down"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:157
+#: superset/assets/src/explore/visTypes.jsx:140
 msgid "Pie Chart"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:253
-#: superset/assets/src/explore/visTypes.js:363
+#: superset/assets/src/explore/visTypes.jsx:241
+#: superset/assets/src/explore/visTypes.jsx:358
 msgid "Y Axis 1"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:260
-#: superset/assets/src/explore/visTypes.js:370
+#: superset/assets/src/explore/visTypes.jsx:248
+#: superset/assets/src/explore/visTypes.jsx:365
 msgid "Y Axis 2"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:270
+#: superset/assets/src/explore/visTypes.jsx:265
 msgid "Left Axis chart(s)"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:271
+#: superset/assets/src/explore/visTypes.jsx:266
 msgid "Choose one or more charts for left axis"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:274
-#: superset/assets/src/explore/visTypes.js:384
+#: superset/assets/src/explore/visTypes.jsx:269
+#: superset/assets/src/explore/visTypes.jsx:386
 msgid "Left Axis Format"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:305
+#: superset/assets/src/explore/visTypes.jsx:298
 msgid "Time Series - Periodicity Pivot"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:351
+#: superset/assets/src/explore/visTypes.jsx:346
 msgid "Dual Axis Line Chart"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:380
+#: superset/assets/src/explore/visTypes.jsx:382
 msgid "Left Axis Metric"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:381
+#: superset/assets/src/explore/visTypes.jsx:383
 msgid "Choose a metric for left axis"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:485
-#: superset/assets/src/explore/visTypes.js:508
-#: superset/assets/src/explore/visTypes.js:546
-#: superset/assets/src/explore/visTypes.js:585
-#: superset/assets/src/explore/visTypes.js:618
-#: superset/assets/src/explore/visTypes.js:662
-#: superset/assets/src/explore/visTypes.js:702
-#: superset/assets/src/explore/visTypes.js:742
-#: superset/assets/src/explore/visTypes.js:790
+#: superset/assets/src/explore/visTypes.jsx:487
+#: superset/assets/src/explore/visTypes.jsx:518
+#: superset/assets/src/explore/visTypes.jsx:557
+#: superset/assets/src/explore/visTypes.jsx:597
+#: superset/assets/src/explore/visTypes.jsx:631
+#: superset/assets/src/explore/visTypes.jsx:677
+#: superset/assets/src/explore/visTypes.jsx:718
+#: superset/assets/src/explore/visTypes.jsx:759
+#: superset/assets/src/explore/visTypes.jsx:808
 msgid "Map"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:496
+#: superset/assets/src/explore/visTypes.jsx:505
 msgid "Deck.gl - Hexagons"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:516
-#: superset/assets/src/explore/visTypes.js:554
-#: superset/assets/src/explore/visTypes.js:594
-#: superset/assets/src/explore/visTypes.js:631
-#: superset/assets/src/explore/visTypes.js:678
-#: superset/assets/src/explore/visTypes.js:718
-#: superset/assets/src/explore/visTypes.js:756
-#: superset/assets/src/explore/visTypes.js:813
+#: superset/assets/src/explore/visTypes.jsx:526
+#: superset/assets/src/explore/visTypes.jsx:565
+#: superset/assets/src/explore/visTypes.jsx:606
+#: superset/assets/src/explore/visTypes.jsx:645
+#: superset/assets/src/explore/visTypes.jsx:693
+#: superset/assets/src/explore/visTypes.jsx:734
+#: superset/assets/src/explore/visTypes.jsx:773
+#: superset/assets/src/explore/visTypes.jsx:831
 msgid "Advanced"
 msgstr ""
 
 #: superset/assets/src/explore/components/EmbedCodeButton.jsx:77
-#: superset/assets/src/explore/visTypes.js:527
-#: superset/assets/src/explore/visTypes.js:565
+#: superset/assets/src/explore/visTypes.jsx:537
+#: superset/assets/src/explore/visTypes.jsx:576
 msgid "Height"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:528
-#: superset/assets/src/explore/visTypes.js:566
+#: superset/assets/src/explore/visTypes.jsx:538
+#: superset/assets/src/explore/visTypes.jsx:577
 msgid "Metric used to control height"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:534
+#: superset/assets/src/explore/visTypes.jsx:544
 msgid "Deck.gl - Grid"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:606
+#: superset/assets/src/explore/visTypes.jsx:618
 msgid "Deck.gl - Screen grid"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:625
+#: superset/assets/src/explore/visTypes.jsx:638
 msgid "Grid"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:642
+#: superset/assets/src/explore/visTypes.jsx:656
 msgid "Weight"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:643
+#: superset/assets/src/explore/visTypes.jsx:657
 msgid "Metric used as a weight for the grid's coloring"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:651
+#: superset/assets/src/explore/visTypes.jsx:665
 msgid "Deck.gl - GeoJson"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:669
+#: superset/assets/src/explore/visTypes.jsx:684
 msgid "GeoJson Settings"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:709
+#: superset/assets/src/explore/visTypes.jsx:725
 msgid "Polygon Settings"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:749
+#: superset/assets/src/explore/visTypes.jsx:766
 msgid "Arc"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:806
+#: superset/assets/src/explore/visTypes.jsx:824
 msgid "Point Color"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:824
+#: superset/assets/src/explore/visTypes.jsx:842
 msgid "Categorical Color"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:825
+#: superset/assets/src/explore/visTypes.jsx:843
 msgid "Pick a dimension from which categorical colors are defined"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:884
+#: superset/assets/src/explore/visTypes.jsx:902
 msgid "GROUP BY"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:885
+#: superset/assets/src/explore/visTypes.jsx:903
 msgid "Use this section if you want a query that aggregates"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:896
+#: superset/assets/src/explore/visTypes.jsx:914
 msgid "NOT GROUPED BY"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:897
+#: superset/assets/src/explore/visTypes.jsx:915
 msgid "Use this section if you want to query atomic rows"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:926
+#: superset/assets/src/explore/visTypes.jsx:951
 msgid "Time Series Table"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:944
+#: superset/assets/src/explore/visTypes.jsx:971
 msgid ""
 "Templated link, it's possible to include {{ metric }} or other values "
 "coming from the controls."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:978
+#: superset/assets/src/explore/visTypes.jsx:1007
 msgid "Pivot Options"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1090
+#: superset/assets/src/explore/visTypes.jsx:1123
 msgid "Number Format"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1093
+#: superset/assets/src/explore/visTypes.jsx:1126
 msgid "Time Format"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1277
+#: superset/assets/src/explore/visTypes.jsx:1318
 msgid "Numeric Columns"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1278
+#: superset/assets/src/explore/visTypes.jsx:1319
 msgid "Select the numeric columns to draw the histogram"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1282
+#: superset/assets/src/explore/visTypes.jsx:1323
 msgid "No of Bins"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1283
+#: superset/assets/src/explore/visTypes.jsx:1324
 msgid "Select number of bins for the histogram"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1287
+#: superset/assets/src/explore/visTypes.jsx:1328
 msgid "Opacity of the bars. Between 0 and 1"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1315
+#: superset/assets/src/explore/visTypes.jsx:1358
 msgid "Primary Metric"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1316
+#: superset/assets/src/explore/visTypes.jsx:1359
 msgid "The primary metric is used to define the arc segment sizes"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1319
+#: superset/assets/src/explore/visTypes.jsx:1362
 msgid "Secondary Metric"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1321
+#: superset/assets/src/explore/visTypes.jsx:1364
 msgid ""
 "[optional] this secondary metric is used to define the color as a ratio "
 "against the primary metric. When omitted, the color is categorical and "
 "based on labels"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1326
+#: superset/assets/src/explore/visTypes.jsx:1369
 msgid "Hierarchy"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1327
+#: superset/assets/src/explore/visTypes.jsx:1370
 msgid "This defines the level of the hierarchy"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1354
-#: superset/assets/src/explore/visTypes.js:1382
+#: superset/assets/src/explore/visTypes.jsx:1398
+#: superset/assets/src/explore/visTypes.jsx:1427
 msgid "Source / Target"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1355
-#: superset/assets/src/explore/visTypes.js:1383
+#: superset/assets/src/explore/visTypes.jsx:1399
+#: superset/assets/src/explore/visTypes.jsx:1428
 msgid "Choose a source and a target"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1388
+#: superset/assets/src/explore/visTypes.jsx:1433
 msgid "Chord Diagram"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1410
+#: superset/assets/src/explore/visTypes.jsx:1458
 msgid "Choose a number format"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1413
+#: superset/assets/src/explore/visTypes.jsx:1461
 msgid "Source"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1416
+#: superset/assets/src/explore/visTypes.jsx:1464
 msgid "Choose a source"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1419
+#: superset/assets/src/explore/visTypes.jsx:1467
 msgid "Target"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1422
+#: superset/assets/src/explore/visTypes.jsx:1470
 msgid "Choose a target"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1448
+#: superset/assets/src/explore/visTypes.jsx:1497
 msgid "ISO 3166-2 codes of region/province/department"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1449
+#: superset/assets/src/explore/visTypes.jsx:1498
 msgid ""
 "It's ISO 3166-2 of your region/province/department in your table. (see "
 "documentation for list of ISO 3166-2)"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1473
+#: superset/assets/src/explore/visTypes.jsx:1523
 msgid "Bubbles"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1483
+#: superset/assets/src/explore/visTypes.jsx:1533
 msgid "Country Control"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1484
+#: superset/assets/src/explore/visTypes.jsx:1534
 msgid "3 letter code of the country"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1487
+#: superset/assets/src/explore/visTypes.jsx:1537
 msgid "Metric for color"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1488
+#: superset/assets/src/explore/visTypes.jsx:1538
 msgid "Metric that defines the color of the country"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1491
+#: superset/assets/src/explore/visTypes.jsx:1541
 msgid "Bubble size"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1492
+#: superset/assets/src/explore/visTypes.jsx:1542
 msgid "Metric that defines the size of the bubble"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1498
+#: superset/assets/src/explore/visTypes.jsx:1548
 msgid "Filter Box"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1514
+#: superset/assets/src/explore/visTypes.jsx:1565
 msgid "Filter controls"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1515
+#: superset/assets/src/explore/visTypes.jsx:1566
 msgid ""
 "The controls you want to filter on. Note that only columns checked as "
 "\"filterable\" will show up on this list."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1571
+#: superset/assets/src/explore/visTypes.jsx:1625
 msgid "Heatmap Options"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1592
+#: superset/assets/src/explore/visTypes.jsx:1646
 msgid "Whether to apply a normal distribution based on rank on the color scale"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1594
+#: superset/assets/src/explore/visTypes.jsx:1648
 msgid "Value bounds"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1596
+#: superset/assets/src/explore/visTypes.jsx:1650
 msgid ""
 "Hard value bounds applied for color coding. Is only relevant and applied "
 "when the normalization is applied against the whole heatmap."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1601
+#: superset/assets/src/explore/visTypes.jsx:1655
 msgid "Value Format"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1607
+#: superset/assets/src/explore/visTypes.jsx:1661
 msgid "Horizon"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1634
+#: superset/assets/src/explore/visTypes.jsx:1689
 msgid "Points"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1641
+#: superset/assets/src/explore/visTypes.jsx:1696
 msgid "Labelling"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1648
+#: superset/assets/src/explore/visTypes.jsx:1703
 msgid "Visual Tweaks"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1667
+#: superset/assets/src/explore/visTypes.jsx:1722
 msgid "Column containing longitude data"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1671
+#: superset/assets/src/explore/visTypes.jsx:1726
 msgid "Column containing latitude data"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1674
+#: superset/assets/src/explore/visTypes.jsx:1729
 msgid "Cluster label aggregator"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1675
+#: superset/assets/src/explore/visTypes.jsx:1730
 msgid ""
 "Aggregate function applied to the list of points in each cluster to "
 "produce the cluster label."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1679
+#: superset/assets/src/explore/visTypes.jsx:1734
 msgid "Tooltip"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1680
+#: superset/assets/src/explore/visTypes.jsx:1735
 msgid "Show a tooltip when hovering over points and clusters describing the label"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1684
+#: superset/assets/src/explore/visTypes.jsx:1739
 msgid ""
 "One or many controls to group by. If grouping, latitude and longitude "
 "columns must be present."
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1695
+#: superset/assets/src/explore/visTypes.jsx:1750
 msgid "Event definition"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1705
+#: superset/assets/src/explore/visTypes.jsx:1767
 msgid "Additional meta data"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1713
+#: superset/assets/src/explore/visTypes.jsx:1775
 msgid "Column containing entity ids"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1714
+#: superset/assets/src/explore/visTypes.jsx:1776
 msgid "e.g., a \"user id\" column"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1717
+#: superset/assets/src/explore/visTypes.jsx:1779
 msgid "Column containing event names"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1725
+#: superset/assets/src/explore/visTypes.jsx:1787
 msgid "Event count limit"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1726
+#: superset/assets/src/explore/visTypes.jsx:1788
 msgid "The maximum number of events to return, equivalent to number of rows"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1729
+#: superset/assets/src/explore/visTypes.jsx:1791
 msgid "Meta data"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1730
+#: superset/assets/src/explore/visTypes.jsx:1792
 msgid "Select any columns for meta data inspection"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1742
+#: superset/assets/src/explore/visTypes.jsx:1804
 msgid "Paired t-test"
 msgstr ""
 
-#: superset/assets/src/explore/visTypes.js:1778
+#: superset/assets/src/explore/visTypes.jsx:1840
 msgid "Time Series Options"
 msgstr ""
 
@@ -3655,8 +3654,7 @@ msgstr ""
 msgid "type a value here"
 msgstr ""
 
-#: superset/assets/src/explore/components/AdhocFilterEditPopoverSimpleTabContent.jsx:284
-#: superset/assets/src/explore/components/controls/Filter.jsx:120
+#: superset/assets/src/explore/components/AdhocFilterEditPopoverSimpleTabContent.jsx:285
 msgid "Filter value"
 msgstr ""
 
@@ -3685,15 +3683,23 @@ msgstr ""
 msgid "Error..."
 msgstr ""
 
+#: superset/assets/src/explore/components/DisplayQueryButton.jsx:146
+msgid "View query"
+msgstr ""
+
+#: superset/assets/src/explore/components/DisplayQueryButton.jsx:156
+msgid "View results"
+msgstr ""
+
 #: superset/assets/src/explore/components/EmbedCodeButton.jsx:91
 msgid "Width"
 msgstr ""
 
-#: superset/assets/src/explore/components/ExploreActionButtons.jsx:42
+#: superset/assets/src/explore/components/ExploreActionButtons.jsx:43
 msgid "Export to .json"
 msgstr ""
 
-#: superset/assets/src/explore/components/ExploreActionButtons.jsx:52
+#: superset/assets/src/explore/components/ExploreActionButtons.jsx:53
 msgid "Export to .csv format"
 msgstr ""
 
@@ -3710,48 +3716,48 @@ msgstr ""
 msgid "Limit reached"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:74
+#: superset/assets/src/explore/components/SaveModal.jsx:76
 msgid "Please enter a chart name"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:89
+#: superset/assets/src/explore/components/SaveModal.jsx:91
 msgid "Please select a dashboard"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:97
+#: superset/assets/src/explore/components/SaveModal.jsx:99
 msgid "Please enter a dashboard name"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:133
+#: superset/assets/src/explore/components/SaveModal.jsx:136
 msgid "Save A Chart"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:154
+#: superset/assets/src/explore/components/SaveModal.jsx:157
 #, python-format
 msgid "Overwrite chart %s"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:167
+#: superset/assets/src/explore/components/SaveModal.jsx:170
 msgid "[chart name]"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:180
+#: superset/assets/src/explore/components/SaveModal.jsx:183
 msgid "Do not add to a dashboard"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:188
+#: superset/assets/src/explore/components/SaveModal.jsx:192
 msgid "Add chart to existing dashboard"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:204
+#: superset/assets/src/explore/components/SaveModal.jsx:210
 msgid "Add to new dashboard"
 msgstr ""
 
-#: superset/assets/src/explore/components/SaveModal.jsx:230
+#: superset/assets/src/explore/components/SaveModal.jsx:237
 msgid "Save & go to dashboard"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/AdhocFilterControl.jsx:241
+#: superset/assets/src/explore/components/controls/AdhocFilterControl.jsx:181
 msgid "choose a column or metric"
 msgstr ""
 
@@ -3777,60 +3783,54 @@ msgstr ""
 msgid "Max"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:79
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:92
 msgid "Something went wrong while fetching the datasource list"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:110
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:123
 msgid "Select a datasource"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:120
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:135
 #: superset/assets/src/explore/components/controls/VizTypeControl.jsx:120
 msgid "Search / Filter"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:180
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:195
 msgid "Click to point to another datasource"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:191
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:206
 msgid "Edit the datasource's configuration"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:203
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:217
 msgid "Show datasource configuration"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/Filter.jsx:149
-msgid "Select metric"
+#: superset/assets/src/explore/components/controls/DatasourceControl.jsx:232
+msgid "Run SQL queries against this datasource"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/Filter.jsx:149
-msgid "Select column"
+#: superset/assets/src/explore/components/controls/DateFilterControl.jsx:50
+msgid ""
+"Superset supports smart date parsing. Strings like `last sunday` or `last"
+" october` can be used."
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/Filter.jsx:161
-msgid "Select operator"
-msgstr ""
-
-#: superset/templates/appbuilder/general/widgets/search.html:6
-msgid "Add Filter"
-msgstr ""
-
-#: superset/assets/src/explore/components/controls/MetricsControl.jsx:239
+#: superset/assets/src/explore/components/controls/MetricsControl.jsx:248
 msgid "choose a column or aggregate function"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/SelectAsyncControl.jsx:25
+#: superset/assets/src/explore/components/controls/SelectAsyncControl.jsx:28
 msgid "Error while fetching data"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/SelectControl.jsx:48
+#: superset/assets/src/explore/components/controls/SelectControl.jsx:49
 msgid "No results found"
 msgstr ""
 
-#: superset/assets/src/explore/components/controls/SelectControl.jsx:114
+#: superset/assets/src/explore/components/controls/SelectControl.jsx:115
 #, python-format
 msgid "%s option(s)"
 msgstr ""
@@ -3863,10 +3863,6 @@ msgstr ""
 
 #: superset/assets/src/explore/components/controls/TextAreaControl.jsx:70
 msgid "textarea"
-msgstr ""
-
-#: superset/assets/src/explore/components/controls/TextAreaControl.jsx:98
-msgid "Edit"
 msgstr ""
 
 #: superset/assets/src/explore/components/controls/TextAreaControl.jsx:98
@@ -3906,14 +3902,14 @@ msgstr ""
 #: superset/assets/src/profile/components/CreatedContent.jsx:58
 #: superset/assets/src/profile/components/Favorites.jsx:59
 #: superset/assets/src/welcome/App.jsx:28
-#: superset/assets/src/welcome/App.jsx:31 superset/views/core.py:459
-#: superset/views/core.py:628
+#: superset/assets/src/welcome/App.jsx:31 superset/views/core.py:464
+#: superset/views/core.py:630
 msgid "Dashboards"
 msgstr ""
 
 #: superset/assets/src/profile/components/CreatedContent.jsx:61
 #: superset/assets/src/profile/components/Favorites.jsx:62
-#: superset/views/core.py:500 superset/views/core.py:573
+#: superset/views/core.py:505 superset/views/core.py:575
 msgid "Charts"
 msgstr ""
 
@@ -3930,7 +3926,7 @@ msgid "Roles"
 msgstr ""
 
 #: superset/assets/src/profile/components/Security.jsx:23
-#: superset/views/core.py:313
+#: superset/views/core.py:317
 msgid "Databases"
 msgstr ""
 
@@ -3958,24 +3954,20 @@ msgstr ""
 msgid "Data has no time steps"
 msgstr ""
 
-#: superset/assets/src/visualizations/filter_box.jsx:115
-msgid "Select starting date"
+#: superset/assets/src/visualizations/filter_box.jsx:113
+msgid "Select start and end date"
 msgstr ""
 
-#: superset/assets/src/visualizations/filter_box.jsx:124
-msgid "Select end date"
-msgstr ""
-
-#: superset/assets/src/visualizations/filter_box.jsx:193
+#: superset/assets/src/visualizations/filter_box.jsx:182
 #, python-format
 msgid "Select [%s]"
 msgstr ""
 
-#: superset/assets/src/visualizations/filter_box.jsx:230
+#: superset/assets/src/visualizations/filter_box.jsx:219
 msgid "Apply"
 msgstr ""
 
-#: superset/assets/src/visualizations/nvd3_vis.js:172
+#: superset/assets/src/visualizations/nvd3_vis.js:176
 msgid "You cannot use 45° tick layout along with the time range filter"
 msgstr ""
 
@@ -3984,15 +3976,15 @@ msgstr ""
 msgid "Recently Viewed"
 msgstr ""
 
-#: superset/connectors/druid/models.py:1038
+#: superset/connectors/druid/models.py:1009
 msgid "Metric(s) {} must be aggregations."
 msgstr ""
 
-#: superset/connectors/druid/models.py:1360
+#: superset/connectors/druid/models.py:1338
 msgid "No data was returned."
 msgstr ""
 
-#: superset/connectors/druid/models.py:1419
+#: superset/connectors/druid/models.py:1399
 msgid "Unsupported extraction function: "
 msgstr ""
 
@@ -4071,7 +4063,7 @@ msgstr ""
 msgid "Verbose Name"
 msgstr ""
 
-#: superset/connectors/druid/views.py:137 superset/views/core.py:670
+#: superset/connectors/druid/views.py:137 superset/views/core.py:672
 msgid "JSON"
 msgstr ""
 
@@ -4100,7 +4092,7 @@ msgid "Edit Druid Cluster"
 msgstr ""
 
 #: superset/connectors/druid/views.py:171
-#: superset/connectors/druid/views.py:257
+#: superset/connectors/druid/views.py:267
 msgid "Cluster"
 msgstr ""
 
@@ -4128,35 +4120,42 @@ msgstr ""
 msgid "Broker Endpoint"
 msgstr ""
 
-#: superset/connectors/druid/views.py:193
+#: superset/connectors/druid/views.py:180
+msgid ""
+"Duration (in seconds) of the caching timeout for this cluster. A timeout "
+"of 0 indicates that the cache never expires. Note this defaults to the "
+"global timeout if undefined."
+msgstr ""
+
+#: superset/connectors/druid/views.py:199
 msgid "Druid Clusters"
 msgstr ""
 
-#: superset/connectors/druid/views.py:196
-#: superset/connectors/druid/views.py:298
-#: superset/connectors/druid/views.py:347
-#: superset/connectors/druid/views.py:355 superset/connectors/sqla/views.py:315
-#: superset/views/core.py:316 superset/views/core.py:2771
+#: superset/connectors/druid/views.py:202
+#: superset/connectors/druid/views.py:308
+#: superset/connectors/druid/views.py:357
+#: superset/connectors/druid/views.py:365 superset/connectors/sqla/views.py:319
+#: superset/views/core.py:320 superset/views/core.py:2824
 msgid "Sources"
 msgstr ""
 
-#: superset/connectors/druid/views.py:204
+#: superset/connectors/druid/views.py:210
 msgid "List Druid Datasource"
 msgstr ""
 
-#: superset/connectors/druid/views.py:205
+#: superset/connectors/druid/views.py:211
 msgid "Show Druid Datasource"
 msgstr ""
 
-#: superset/connectors/druid/views.py:206
+#: superset/connectors/druid/views.py:212
 msgid "Add Druid Datasource"
 msgstr ""
 
-#: superset/connectors/druid/views.py:207
+#: superset/connectors/druid/views.py:213
 msgid "Edit Druid Datasource"
 msgstr ""
 
-#: superset/connectors/druid/views.py:226 superset/connectors/sqla/views.py:182
+#: superset/connectors/druid/views.py:232 superset/connectors/sqla/views.py:182
 msgid ""
 "The list of charts associated with this table. By altering this "
 "datasource, you may change how these associated charts behave. Also note "
@@ -4165,11 +4164,11 @@ msgid ""
 "datasource for a chart, overwrite the chart from the 'explore view'"
 msgstr ""
 
-#: superset/connectors/druid/views.py:234 superset/connectors/sqla/views.py:190
+#: superset/connectors/druid/views.py:240 superset/connectors/sqla/views.py:190
 msgid "Timezone offset (in hours) for this datasource"
 msgstr ""
 
-#: superset/connectors/druid/views.py:238
+#: superset/connectors/druid/views.py:244
 msgid ""
 "Time expression to use as a predicate when retrieving distinct values to "
 "populate the filter component. Only applies when `Enable Filter Select` "
@@ -4177,61 +4176,68 @@ msgid ""
 "filter will be populated based on the distinct value over the past week"
 msgstr ""
 
-#: superset/connectors/druid/views.py:245 superset/connectors/sqla/views.py:212
+#: superset/connectors/druid/views.py:251 superset/connectors/sqla/views.py:212
 msgid ""
 "Whether to populate the filter's dropdown in the explore view's filter "
 "section with a list of distinct values fetched from the backend on the "
 "fly"
 msgstr ""
 
-#: superset/connectors/druid/views.py:249
+#: superset/connectors/druid/views.py:255
 msgid ""
 "Redirects to this endpoint when clicking on the datasource from the "
 "datasource list"
 msgstr ""
 
-#: superset/connectors/druid/views.py:255 superset/connectors/sqla/views.py:224
+#: superset/connectors/druid/views.py:258
+msgid ""
+"Duration (in seconds) of the caching timeout for this datasource. A "
+"timeout of 0 indicates that the cache never expires. Note this defaults "
+"to the cluster timeout if undefined."
+msgstr ""
+
+#: superset/connectors/druid/views.py:265 superset/connectors/sqla/views.py:228
 msgid "Associated Charts"
 msgstr ""
 
-#: superset/connectors/druid/views.py:256
+#: superset/connectors/druid/views.py:266
 msgid "Data Source"
 msgstr ""
 
-#: superset/connectors/druid/views.py:259 superset/connectors/sqla/views.py:236
+#: superset/connectors/druid/views.py:269 superset/connectors/sqla/views.py:240
 msgid "Owner"
 msgstr ""
 
-#: superset/connectors/druid/views.py:260
+#: superset/connectors/druid/views.py:270
 msgid "Is Hidden"
 msgstr ""
 
-#: superset/connectors/druid/views.py:261 superset/connectors/sqla/views.py:229
+#: superset/connectors/druid/views.py:271 superset/connectors/sqla/views.py:233
 msgid "Enable Filter Select"
 msgstr ""
 
-#: superset/connectors/druid/views.py:262 superset/connectors/sqla/views.py:231
+#: superset/connectors/druid/views.py:272 superset/connectors/sqla/views.py:235
 msgid "Default Endpoint"
 msgstr ""
 
-#: superset/connectors/druid/views.py:263
+#: superset/connectors/druid/views.py:273
 msgid "Time Offset"
 msgstr ""
 
-#: superset/connectors/druid/views.py:264 superset/connectors/sqla/views.py:233
-#: superset/views/core.py:279 superset/views/core.py:457
+#: superset/connectors/druid/views.py:274 superset/connectors/sqla/views.py:237
+#: superset/views/core.py:283 superset/views/core.py:462
 msgid "Cache Timeout"
 msgstr ""
 
-#: superset/connectors/druid/views.py:296
+#: superset/connectors/druid/views.py:306
 msgid "Druid Datasources"
 msgstr ""
 
-#: superset/connectors/druid/views.py:344
+#: superset/connectors/druid/views.py:354
 msgid "Scan New Datasources"
 msgstr ""
 
-#: superset/connectors/druid/views.py:352
+#: superset/connectors/druid/views.py:362
 msgid "Refresh Druid Metadata"
 msgstr ""
 
@@ -4246,10 +4252,11 @@ msgid "Empty query?"
 msgstr ""
 
 #: superset/connectors/sqla/models.py:539
+#: superset/connectors/sqla/models.py:688
 msgid "Metric '{}' is not valid"
 msgstr ""
 
-#: superset/connectors/sqla/models.py:762
+#: superset/connectors/sqla/models.py:771
 msgid ""
 "Table [{}] doesn't seem to exist in the specified database, couldn't "
 "fetch column information"
@@ -4337,7 +4344,7 @@ msgid "Show Table"
 msgstr ""
 
 #: superset/connectors/sqla/views.py:159
-msgid "Add Table"
+msgid "Import a table definition"
 msgstr ""
 
 #: superset/connectors/sqla/views.py:160
@@ -4379,60 +4386,67 @@ msgid ""
 "templating syntax"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:226
+#: superset/connectors/sqla/views.py:222
+msgid ""
+"Duration (in seconds) of the caching timeout for this table. A timeout of"
+" 0 indicates that the cache never expires. Note this defaults to the "
+"database timeout if undefined."
+msgstr ""
+
+#: superset/connectors/sqla/views.py:230
 msgid "Changed By"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:228 superset/views/core.py:277
+#: superset/connectors/sqla/views.py:232 superset/views/core.py:281
 msgid "Last Changed"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:232
+#: superset/connectors/sqla/views.py:236
 msgid "Offset"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:235
+#: superset/connectors/sqla/views.py:239
 msgid "Fetch Values Predicate"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:237
+#: superset/connectors/sqla/views.py:241
 msgid "Main Datetime Column"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:239
+#: superset/connectors/sqla/views.py:243
 msgid "SQL Lab View"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:240
+#: superset/connectors/sqla/views.py:244
 msgid "Template parameters"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:257
+#: superset/connectors/sqla/views.py:261
 msgid ""
 "Table [{}] could not be found, please double check your database "
 "connection, schema, and table name"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:270
+#: superset/connectors/sqla/views.py:274
 msgid ""
 "The table was created. As part of this two phase configuration process, "
 "you should now click the edit button by the new table to configure it."
 msgstr ""
 
-#: superset/connectors/sqla/views.py:293
+#: superset/connectors/sqla/views.py:297
 msgid "Refresh Metadata"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:294
+#: superset/connectors/sqla/views.py:298
 msgid "Refresh column metadata"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:303
+#: superset/connectors/sqla/views.py:307
 #, python-format
 msgid "Metadata refreshed for the following table(s): %(tables)s"
 msgstr ""
 
-#: superset/connectors/sqla/views.py:311
+#: superset/connectors/sqla/views.py:315
 msgid "Tables"
 msgstr ""
 
@@ -4454,6 +4468,10 @@ msgstr ""
 
 #: superset/templates/appbuilder/general/widgets/base_list.html:46
 msgid "No records found"
+msgstr ""
+
+#: superset/templates/appbuilder/general/widgets/search.html:6
+msgid "Add Filter"
 msgstr ""
 
 #: superset/templates/superset/import_dashboards.html:11
@@ -4482,7 +4500,7 @@ msgid "Annotation Layers"
 msgstr ""
 
 #: superset/views/annotations.py:52 superset/views/annotations.py:60
-#: superset/views/core.py:306 superset/views/core.py:2739
+#: superset/views/core.py:310 superset/views/core.py:2792
 #: superset/views/sql_lab.py:36
 msgid "Manage"
 msgstr ""
@@ -4491,28 +4509,28 @@ msgstr ""
 msgid "Annotations"
 msgstr ""
 
-#: superset/views/base.py:79
+#: superset/views/base.py:81
 #, python-format
 msgid "Datasource %(name)s already exists"
 msgstr ""
 
-#: superset/views/base.py:123
+#: superset/views/base.py:125
 msgid "json isn't valid"
 msgstr ""
 
-#: superset/views/base.py:127
+#: superset/views/base.py:129
 msgid "Export to YAML"
 msgstr ""
 
-#: superset/views/base.py:127
+#: superset/views/base.py:129
 msgid "Export to YAML?"
 msgstr ""
 
-#: superset/views/base.py:188
+#: superset/views/base.py:190
 msgid "Delete"
 msgstr ""
 
-#: superset/views/base.py:189
+#: superset/views/base.py:191
 msgid "Delete all Really?"
 msgstr ""
 
@@ -4532,22 +4550,18 @@ msgstr ""
 msgid "The user seems to have been deleted"
 msgstr ""
 
-#: superset/views/core.py:75
-msgid "You don't have access to this datasource. <a href='{}'>(Gain access)</a>"
-msgstr ""
-
-#: superset/views/core.py:78
+#: superset/views/core.py:71
 msgid "You don't have access to this datasource"
 msgstr ""
 
-#: superset/views/core.py:90
+#: superset/views/core.py:83
 #, python-format
 msgid ""
 "This view requires the database %(name)s or `all_datasource_access` "
 "permission"
 msgstr ""
 
-#: superset/views/core.py:95
+#: superset/views/core.py:88
 #, python-format
 msgid ""
 "This endpoint requires the datasource %(name)s, database or "
@@ -4619,105 +4633,112 @@ msgid ""
 " can be expensive and put strain on the system."
 msgstr ""
 
-#: superset/views/core.py:271
+#: superset/views/core.py:269
+msgid ""
+"Duration (in seconds) of the caching timeout for this database. A timeout"
+" of 0 indicates that the cache never expires. Note this defaults to the "
+"global timeout if undefined."
+msgstr ""
+
+#: superset/views/core.py:275
 msgid "Expose in SQL Lab"
 msgstr ""
 
-#: superset/views/core.py:272
+#: superset/views/core.py:276
 msgid "Allow CREATE TABLE AS"
 msgstr ""
 
-#: superset/views/core.py:273
+#: superset/views/core.py:277
 msgid "Allow DML"
 msgstr ""
 
-#: superset/views/core.py:274
+#: superset/views/core.py:278
 msgid "CTAS Schema"
 msgstr ""
 
-#: superset/views/core.py:276 superset/views/core.py:458
-#: superset/views/core.py:575 superset/views/core.py:642
+#: superset/views/core.py:280 superset/views/core.py:463
+#: superset/views/core.py:577 superset/views/core.py:644
 msgid "Creator"
 msgstr ""
 
-#: superset/views/core.py:278
+#: superset/views/core.py:282
 msgid "SQLAlchemy URI"
 msgstr ""
 
-#: superset/views/core.py:280
+#: superset/views/core.py:284
 msgid "Extra"
 msgstr ""
 
-#: superset/views/core.py:281
+#: superset/views/core.py:285
 msgid "Allow Run Sync"
 msgstr ""
 
-#: superset/views/core.py:282
+#: superset/views/core.py:286
 msgid "Allow Run Async"
 msgstr ""
 
-#: superset/views/core.py:283
+#: superset/views/core.py:287
 msgid "Impersonate the logged on user"
 msgstr ""
 
-#: superset/views/core.py:302
+#: superset/views/core.py:306
 msgid "Import Dashboards"
 msgstr ""
 
-#: superset/views/core.py:334
+#: superset/views/core.py:338
 msgid "CSV to Database configuration"
 msgstr ""
 
-#: superset/views/core.py:375
+#: superset/views/core.py:379
 msgid "CSV file \"{0}\" uploaded to table \"{1}\" in database \"{2}\""
 msgstr ""
 
-#: superset/views/core.py:401 superset/views/core.py:667
+#: superset/views/core.py:405 superset/views/core.py:669
 #: superset/views/sql_lab.py:23 superset/views/sql_lab.py:60
 msgid "User"
 msgstr ""
 
-#: superset/views/core.py:402
+#: superset/views/core.py:406
 msgid "User Roles"
 msgstr ""
 
-#: superset/views/core.py:403
+#: superset/views/core.py:407
 msgid "Database URL"
 msgstr ""
 
-#: superset/views/core.py:405
+#: superset/views/core.py:409
 msgid "Roles to grant"
 msgstr ""
 
-#: superset/views/core.py:406
+#: superset/views/core.py:410
 msgid "Created On"
 msgstr ""
 
-#: superset/views/core.py:412
+#: superset/views/core.py:416
 msgid "Access requests"
 msgstr ""
 
-#: superset/views/core.py:414 superset/views/core.py:679
+#: superset/views/core.py:418 superset/views/core.py:681
 msgid "Security"
 msgstr ""
 
-#: superset/views/core.py:421
+#: superset/views/core.py:425
 msgid "List Charts"
 msgstr ""
 
-#: superset/views/core.py:422
+#: superset/views/core.py:426
 msgid "Show Chart"
 msgstr ""
 
-#: superset/views/core.py:423
+#: superset/views/core.py:427
 msgid "Add Chart"
 msgstr ""
 
-#: superset/views/core.py:424
+#: superset/views/core.py:428
 msgid "Edit Chart"
 msgstr ""
 
-#: superset/views/core.py:446
+#: superset/views/core.py:450
 msgid ""
 "These parameters are generated dynamically when clicking the save or "
 "overwrite button in the explore view. This JSON object is exposed here "
@@ -4725,202 +4746,213 @@ msgid ""
 "parameters."
 msgstr ""
 
-#: superset/views/core.py:452
-msgid "Duration (in seconds) of the caching timeout for this chart."
+#: superset/views/core.py:456
+msgid ""
+"Duration (in seconds) of the caching timeout for this chart. Note this "
+"defaults to the datasource/table timeout if undefined."
 msgstr ""
 
-#: superset/views/core.py:462
+#: superset/views/core.py:467
 msgid "Last Modified"
 msgstr ""
 
-#: superset/views/core.py:463 superset/views/core.py:574
+#: superset/views/core.py:468 superset/views/core.py:576
 msgid "Owners"
 msgstr ""
 
-#: superset/views/core.py:464
+#: superset/views/core.py:469
 msgid "Parameters"
 msgstr ""
 
-#: superset/views/core.py:465 superset/views/core.py:512
+#: superset/views/core.py:470 superset/views/core.py:517
 msgid "Chart"
 msgstr ""
 
-#: superset/views/core.py:532
+#: superset/views/core.py:471
+msgid "Name"
+msgstr ""
+
+#: superset/views/core.py:538
 msgid "List Dashboards"
 msgstr ""
 
-#: superset/views/core.py:533
+#: superset/views/core.py:539
 msgid "Show Dashboard"
 msgstr ""
 
-#: superset/views/core.py:534
+#: superset/views/core.py:540
 msgid "Add Dashboard"
 msgstr ""
 
-#: superset/views/core.py:535
+#: superset/views/core.py:541
 msgid "Edit Dashboard"
 msgstr ""
 
-#: superset/views/core.py:547
+#: superset/views/core.py:553
 msgid ""
 "This json object describes the positioning of the widgets in the "
 "dashboard. It is dynamically generated when adjusting the widgets size "
 "and positions by using drag & drop in the dashboard view"
 msgstr ""
 
-#: superset/views/core.py:552
+#: superset/views/core.py:558
 msgid ""
 "The css for individual dashboards can be altered here, or in the "
 "dashboard view where changes are immediately visible"
 msgstr ""
 
-#: superset/views/core.py:556
+#: superset/views/core.py:562
 msgid "To get a readable URL for your dashboard"
 msgstr ""
 
-#: superset/views/core.py:557
+#: superset/views/core.py:563
 msgid ""
 "This JSON object is generated dynamically when clicking the save or "
 "overwrite button in the dashboard view. It is exposed here for reference "
 "and for power users who may want to alter specific parameters."
 msgstr ""
 
-#: superset/views/core.py:562
+#: superset/views/core.py:568
 msgid "Owners is a list of users who can alter the dashboard."
 msgstr ""
 
-#: superset/views/core.py:570 superset/views/core.py:640
+#: superset/views/core.py:572 superset/views/core.py:642
 msgid "Dashboard"
 msgstr ""
 
-#: superset/views/core.py:572
+#: superset/views/core.py:574
 msgid "Slug"
 msgstr ""
 
-#: superset/views/core.py:577
-msgid "Position JSON"
+#: superset/views/core.py:578 superset/views/core.py:645
+#: superset/views/sql_lab.py:63
+msgid "Modified"
 msgstr ""
 
 #: superset/views/core.py:579
+msgid "Position JSON"
+msgstr ""
+
+#: superset/views/core.py:581
 msgid "JSON Metadata"
 msgstr ""
 
-#: superset/views/core.py:580
+#: superset/views/core.py:582
 msgid "Underlying Tables"
 msgstr ""
 
-#: superset/views/core.py:603
+#: superset/views/core.py:605
 msgid "Export"
 msgstr ""
 
-#: superset/views/core.py:603
+#: superset/views/core.py:605
 msgid "Export dashboards?"
 msgstr ""
 
-#: superset/views/core.py:668
+#: superset/views/core.py:670
 msgid "Action"
 msgstr ""
 
-#: superset/views/core.py:669
+#: superset/views/core.py:671
 msgid "dttm"
 msgstr ""
 
-#: superset/views/core.py:677
+#: superset/views/core.py:679
 msgid "Action Log"
 msgstr ""
 
-#: superset/views/core.py:874
+#: superset/views/core.py:876
 msgid "Access was requested"
 msgstr ""
 
-#: superset/views/core.py:935
+#: superset/views/core.py:937
 #, python-format
 msgid ""
 "%(user)s was granted the role %(role)s that gives access to the "
 "%(datasource)s"
 msgstr ""
 
-#: superset/views/core.py:951
+#: superset/views/core.py:953
 #, python-format
 msgid "Role %(r)s was extended to provide the access to the datasource %(ds)s"
 msgstr ""
 
-#: superset/views/core.py:960
+#: superset/views/core.py:962
 msgid "You have no permission to approve this request"
 msgstr ""
 
-#: superset/views/core.py:1293 superset/views/core.py:1298
-#: superset/views/core.py:1406 superset/views/core.py:1420
+#: superset/views/core.py:1298 superset/views/core.py:1303
+#: superset/views/core.py:1415 superset/views/core.py:1429
 msgid "You don't have the rights to "
 msgstr ""
 
-#: superset/views/core.py:1293 superset/views/core.py:1406
+#: superset/views/core.py:1298 superset/views/core.py:1415
 msgid "alter this "
 msgstr ""
 
-#: superset/views/core.py:1293 superset/views/core.py:1298
+#: superset/views/core.py:1298 superset/views/core.py:1303
 msgid "chart"
 msgstr ""
 
-#: superset/views/core.py:1298 superset/views/core.py:1420
+#: superset/views/core.py:1303 superset/views/core.py:1429
 msgid "create a "
 msgstr ""
 
-#: superset/views/core.py:1407 superset/views/core.py:1420
+#: superset/views/core.py:1416 superset/views/core.py:1429
 msgid "dashboard"
 msgstr ""
 
-#: superset/views/core.py:1955
+#: superset/views/core.py:2004
 msgid ""
 "Malformed request. slice_id or table_name and db_name arguments are "
 "expected"
 msgstr ""
 
-#: superset/views/core.py:1961
+#: superset/views/core.py:2010
 #, python-format
 msgid "Chart %(id)s not found"
 msgstr ""
 
-#: superset/views/core.py:1973
+#: superset/views/core.py:2022
 #, python-format
 msgid "Table %(t)s wasn't found in the database %(d)s"
 msgstr ""
 
-#: superset/views/core.py:2127
+#: superset/views/core.py:2181
 #, python-format
 msgid "Can't find User '%(name)s', please ask your admin to create one."
 msgstr ""
 
-#: superset/views/core.py:2134
+#: superset/views/core.py:2188
 #, python-format
 msgid "Can't find DruidCluster with cluster_name = '%(name)s'"
 msgstr ""
 
-#: superset/views/core.py:2413
+#: superset/views/core.py:2460
 msgid "Query record was not created as expected."
 msgstr ""
 
-#: superset/views/core.py:2724
+#: superset/views/core.py:2777
 msgid "Template Name"
 msgstr ""
 
-#: superset/views/core.py:2736
+#: superset/views/core.py:2789
 msgid "CSS Templates"
 msgstr ""
 
-#: superset/views/core.py:2747
+#: superset/views/core.py:2800
 msgid "SQL Editor"
 msgstr ""
 
-#: superset/views/core.py:2752 superset/views/core.py:2762
+#: superset/views/core.py:2805 superset/views/core.py:2815
 msgid "SQL Lab"
 msgstr ""
 
-#: superset/views/core.py:2757
+#: superset/views/core.py:2810
 msgid "Query Search"
 msgstr ""
 
-#: superset/views/core.py:2767
+#: superset/views/core.py:2820
 msgid "Upload a CSV"
 msgstr ""
 
