@@ -30,8 +30,8 @@ export default class Hotkeys extends React.PureComponent {
         <Table
           className="table table-condensed"
           data={this.props.hotkeys.map(keyConfig => ({
-            Key: keyConfig.key,
-            Action: keyConfig.descr,
+            '键': keyConfig.key,
+            '动作': keyConfig.descr,
           }))}
         />
       </Popover>);

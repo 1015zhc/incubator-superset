@@ -15,9 +15,9 @@ export default class RecentActivity extends React.PureComponent {
       return data
         .filter(row => row.action === 'dashboard' || row.action === 'explore')
         .map(row => ({
-          name: <a href={row.item_url}>{row.item_title}</a>,
-          type: row.action,
-          time: moment.utc(row.time).fromNow(),
+          '名称': <a href={row.item_url}>{row.item_title}</a>,
+          '类型': row.action,
+          '时间': moment.utc(row.time).locale('zh-cn').fromNow(),
           _time: row.time,
         }));
     };
