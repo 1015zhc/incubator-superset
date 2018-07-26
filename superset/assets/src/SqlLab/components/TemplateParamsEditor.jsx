@@ -61,18 +61,17 @@ export default class TemplateParamsEditor extends React.Component {
   renderDoc() {
     return (
       <p>
-        Assign a set of parameters as <code>JSON</code> below
-        (example: <code>{'{"my_table": "foo"}'}</code>),
-        and they become available
-        in your SQL (example: <code>SELECT * FROM {'{{ my_table }}'} </code>)
-        by using
+        在下方用 <code>JSON</code> 格式指定参数
+        (示例： <code>{'{"my_table": "foo"}'}</code>)，然后在SQL中可以使用它们
+          (示例： <code>SELECT * FROM {'{{ my_table }}'} </code>)。
+        用
         <a
           href="http://superset.apache.org/sqllab.html#templating-with-jinja"
           target="_blank"
           rel="noopener noreferrer"
         >
           Jinja templating
-        </a> syntax.
+        </a> 语法。
       </p>
     );
   }
