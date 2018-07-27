@@ -7,6 +7,8 @@ import { Table, Tr, Td, Thead, Th, unsafe } from 'reactable';
 import Loading from '../components/Loading';
 import '../../stylesheets/reactable-pagination.css';
 
+import moment from 'moment';
+
 const $ = window.$ = require('jquery');
 
 const propTypes = {
@@ -40,9 +42,9 @@ export default class DashboardTable extends React.PureComponent {
           itemsPerPage={50}
           hideFilterInput
           columns={[
-            { key: 'dashboard', label: 'Dashboard' },
-            { key: 'creator', label: 'Creator' },
-            { key: 'modified', label: 'Modified' },
+            { key: 'dashboard', label: '看板' },
+            { key: 'creator', label: '创建者' },
+            { key: 'modified', label: '修改于' },
           ]}
           defaultSort={{ column: 'modified', direction: 'desc' }}
         >
@@ -55,7 +57,7 @@ export default class DashboardTable extends React.PureComponent {
                 {unsafe(o.creator)}
               </Td>
               <Td column="modified" value={o.changed_on} className="text-muted">
-                {unsafe(o.modified)}
+                  {unsafe(o.modified)}
               </Td>
             </Tr>))}
         </Table>

@@ -205,7 +205,7 @@ export default class ResultSet extends React.PureComponent {
           </div>
         );
       } else if (data && data.length === 0) {
-        return <Alert bsStyle="warning">The query returned no data</Alert>;
+        return <Alert bsStyle="warning">无数据</Alert>;
       }
     }
     if (query.cached) {

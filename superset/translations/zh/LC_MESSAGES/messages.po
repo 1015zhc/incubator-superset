@@ -740,15 +740,15 @@ msgstr "搜索结果"
 
 #: superset/assets/src/SqlLab/components/QuerySearch.jsx:184
 msgid "[From]-"
-msgstr "[From]-"
+msgstr "开始于"
 
 #: superset/assets/src/SqlLab/components/QuerySearch.jsx:196
 msgid "[To]-"
-msgstr "[To]-"
+msgstr "结束于"
 
 #: superset/assets/src/SqlLab/components/QuerySearch.jsx:205
 msgid "[Query Status]"
-msgstr "[查询状态]"
+msgstr "查询状态"
 
 #: superset/assets/src/SqlLab/components/QuerySearch.jsx:214
 msgid "Search"
@@ -4828,12 +4828,12 @@ msgstr "看板"
 
 #: superset/views/core.py:574
 msgid "Slug"
-msgstr "Slug"
+msgstr "短链接"
 
 #: superset/views/core.py:578 superset/views/core.py:645
 #: superset/views/sql_lab.py:63
 msgid "Modified"
-msgstr "已修改"
+msgstr "修改于"
 
 #: superset/views/core.py:579
 msgid "Position JSON"
@@ -4861,7 +4861,7 @@ msgstr "操作"
 
 #: superset/views/core.py:671
 msgid "dttm"
-msgstr "DTTM"
+msgstr "日期时间"
 
 #: superset/views/core.py:679
 msgid "Action Log"
@@ -5000,7 +5000,7 @@ msgstr "流行标签链接"
 
 #: superset/views/sql_lab.py:66
 msgid "Changed on"
-msgstr "改变为"
+msgstr "修改于"
 
 #: superset/views/sql_lab.py:86
 msgid "Saved Queries"

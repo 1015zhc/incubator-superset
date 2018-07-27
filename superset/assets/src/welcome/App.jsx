@@ -34,7 +34,7 @@ export default class App extends React.PureComponent {
                     type="text"
                     bsSize="sm"
                     style={{ marginTop: '25px' }}
-                    placeholder="Search"
+                    placeholder="搜索"
                     value={this.state.search}
                     onChange={this.onSearchChange}
                   />

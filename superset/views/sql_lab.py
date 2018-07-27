@@ -64,6 +64,7 @@ class SavedQueryView(SupersetModelView, DeleteMixin):
         'end_time': _('End Time'),
         'pop_tab_link': _('Pop Tab Link'),
         'changed_on': _('Changed on'),
+        'schema': _('Schema'),
     }
 
     def pre_add(self, obj):
